@@ -1,0 +1,1 @@
+This is a mobile and desktop application for rental service or its employees to use in their work. The app is written with 1C programming language. In order to launch the project you'll need to import both databases to 1C program and install it on your mobile device as well with the corresponding tools
