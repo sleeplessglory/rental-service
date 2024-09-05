@@ -1,0 +1,2112 @@
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.208.212 for ServerName
+[Fri Sep 17 09:38:00 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Sep 17 09:38:00 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Sep 17 09:38:00 2021] [notice] Parent: Created child process 1804
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.208.212 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 10.192.208.212 for ServerName
+[Fri Sep 17 09:38:00 2021] [notice] Child 1804: Child process is running
+[Fri Sep 17 09:38:00 2021] [notice] Child 1804: Acquired the start mutex.
+[Fri Sep 17 09:38:00 2021] [notice] Child 1804: Starting 64 worker threads.
+[Fri Sep 17 09:38:00 2021] [notice] Child 1804: Starting thread to listen on port 8080.
+[Fri Sep 17 09:38:16 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Sep 17 09:38:16 2021] [notice] Child 1804: Exit event signaled. Child process is ending.
+[Fri Sep 17 09:38:18 2021] [notice] Child 1804: Released the start mutex
+[Fri Sep 17 09:38:19 2021] [notice] Child 1804: All worker threads have exited.
+[Fri Sep 17 09:38:19 2021] [notice] Child 1804: Child process is exiting
+[Fri Sep 17 09:38:19 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.208.212 for ServerName
+[Fri Sep 17 11:22:07 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Sep 17 11:22:07 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Sep 17 11:22:07 2021] [notice] Parent: Created child process 15792
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.208.212 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 10.192.208.212 for ServerName
+[Fri Sep 17 11:22:07 2021] [notice] Child 15792: Child process is running
+[Fri Sep 17 11:22:07 2021] [notice] Child 15792: Acquired the start mutex.
+[Fri Sep 17 11:22:07 2021] [notice] Child 15792: Starting 64 worker threads.
+[Fri Sep 17 11:22:07 2021] [notice] Child 15792: Starting thread to listen on port 8080.
+[Fri Sep 17 11:22:12 2021] [error] [client 127.0.0.1] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/favicon.ico, referer: http://localhost:8080/primer1009MA/
+[Fri Sep 17 11:28:33 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Sep 17 11:28:33 2021] [notice] Child 15792: Exit event signaled. Child process is ending.
+[Fri Sep 17 11:28:34 2021] [notice] Child 15792: Released the start mutex
+[Fri Sep 17 11:28:35 2021] [notice] Child 15792: All worker threads have exited.
+[Fri Sep 17 11:28:35 2021] [notice] Child 15792: Child process is exiting
+[Fri Sep 17 11:28:35 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Sun Sep 26 22:54:34 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Sep 26 22:54:34 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Sep 26 22:54:34 2021] [notice] Parent: Created child process 22588
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Sun Sep 26 22:54:35 2021] [notice] Child 22588: Child process is running
+[Sun Sep 26 22:54:35 2021] [notice] Child 22588: Acquired the start mutex.
+[Sun Sep 26 22:54:35 2021] [notice] Child 22588: Starting 64 worker threads.
+[Sun Sep 26 22:54:35 2021] [notice] Child 22588: Starting thread to listen on port 8080.
+[Sun Sep 26 22:54:49 2021] [error] [client 127.0.0.1] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/mobile0MA
+[Sun Sep 26 22:54:49 2021] [error] [client 127.0.0.1] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/favicon.ico, referer: http://localhost:8080/mobile0MA
+[Sun Sep 26 23:03:28 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Sep 26 23:03:28 2021] [notice] Child 22588: Exit event signaled. Child process is ending.
+[Sun Sep 26 23:03:29 2021] [notice] Child 22588: Released the start mutex
+[Sun Sep 26 23:03:30 2021] [notice] Child 22588: All worker threads have exited.
+[Sun Sep 26 23:03:30 2021] [notice] Child 22588: Child process is exiting
+[Sun Sep 26 23:03:30 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.213.253 for ServerName
+[Fri Dec 24 09:20:22 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 09:20:22 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 09:20:22 2021] [notice] Parent: Created child process 19512
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.213.253 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 10.192.213.253 for ServerName
+[Fri Dec 24 09:20:22 2021] [notice] Child 19512: Child process is running
+[Fri Dec 24 09:20:22 2021] [notice] Child 19512: Acquired the start mutex.
+[Fri Dec 24 09:20:22 2021] [notice] Child 19512: Starting 64 worker threads.
+[Fri Dec 24 09:20:22 2021] [notice] Child 19512: Starting thread to listen on port 8080.
+[Fri Dec 24 09:22:04 2021] [error] [client 127.0.0.1] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/favicon.ico, referer: http://localhost:8080/primer1009MA/
+[Fri Dec 24 09:22:33 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 09:22:33 2021] [notice] Child 19512: Exit event signaled. Child process is ending.
+[Fri Dec 24 09:22:34 2021] [notice] Child 19512: Released the start mutex
+[Fri Dec 24 09:23:08 2021] [notice] Child 19512: Waiting 270 more seconds for 2 worker threads to finish.
+[Fri Dec 24 09:23:40 2021] [notice] Child 19512: Waiting 240 more seconds for 2 worker threads to finish.
+[Fri Dec 24 09:24:13 2021] [notice] Child 19512: Waiting 210 more seconds for 2 worker threads to finish.
+[Fri Dec 24 09:24:45 2021] [notice] Child 19512: Waiting 180 more seconds for 2 worker threads to finish.
+[Fri Dec 24 09:25:13 2021] [notice] Child 19512: All worker threads have exited.
+[Fri Dec 24 09:25:13 2021] [notice] Child 19512: Child process is exiting
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.213.253 for ServerName
+[Fri Dec 24 10:06:15 2021] [warn] pid file C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 24 10:06:15 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 10:06:15 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 10:06:15 2021] [notice] Parent: Created child process 15668
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.213.253 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 10.192.213.253 for ServerName
+[Fri Dec 24 10:06:15 2021] [notice] Child 15668: Child process is running
+[Fri Dec 24 10:06:15 2021] [notice] Child 15668: Acquired the start mutex.
+[Fri Dec 24 10:06:15 2021] [notice] Child 15668: Starting 64 worker threads.
+[Fri Dec 24 10:06:15 2021] [notice] Child 15668: Starting thread to listen on port 8080.
+[Fri Dec 24 10:27:03 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 10:27:03 2021] [notice] Child 15668: Exit event signaled. Child process is ending.
+[Fri Dec 24 10:27:04 2021] [notice] Child 15668: Released the start mutex
+[Fri Dec 24 10:27:07 2021] [notice] Child 15668: All worker threads have exited.
+[Fri Dec 24 10:27:07 2021] [notice] Child 15668: Child process is exiting
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:29:07 2021] [warn] pid file C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 24 10:29:07 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 10:29:07 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 10:29:07 2021] [notice] Parent: Created child process 24120
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:29:07 2021] [notice] Child 24120: Child process is running
+[Fri Dec 24 10:29:07 2021] [notice] Child 24120: Acquired the start mutex.
+[Fri Dec 24 10:29:07 2021] [notice] Child 24120: Starting 64 worker threads.
+[Fri Dec 24 10:29:07 2021] [notice] Child 24120: Starting thread to listen on port 8080.
+[Fri Dec 24 10:32:32 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 10:32:32 2021] [notice] Child 24120: Exit event signaled. Child process is ending.
+[Fri Dec 24 10:32:33 2021] [notice] Child 24120: Released the start mutex
+[Fri Dec 24 10:32:34 2021] [notice] Child 24120: All worker threads have exited.
+[Fri Dec 24 10:32:34 2021] [notice] Child 24120: Child process is exiting
+[Fri Dec 24 10:32:35 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:32:53 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 10:32:53 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 10:32:53 2021] [notice] Parent: Created child process 18524
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:32:53 2021] [notice] Child 18524: Child process is running
+[Fri Dec 24 10:32:53 2021] [notice] Child 18524: Acquired the start mutex.
+[Fri Dec 24 10:32:53 2021] [notice] Child 18524: Starting 64 worker threads.
+[Fri Dec 24 10:32:53 2021] [notice] Child 18524: Starting thread to listen on port 8080.
+[Fri Dec 24 10:33:03 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 10:33:03 2021] [notice] Child 18524: Exit event signaled. Child process is ending.
+[Fri Dec 24 10:33:04 2021] [notice] Child 18524: Released the start mutex
+[Fri Dec 24 10:33:05 2021] [notice] Child 18524: All worker threads have exited.
+[Fri Dec 24 10:33:05 2021] [notice] Child 18524: Child process is exiting
+[Fri Dec 24 10:33:06 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:33:27 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 10:33:27 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 10:33:27 2021] [notice] Parent: Created child process 24824
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:33:28 2021] [notice] Child 24824: Child process is running
+[Fri Dec 24 10:33:28 2021] [notice] Child 24824: Acquired the start mutex.
+[Fri Dec 24 10:33:28 2021] [notice] Child 24824: Starting 64 worker threads.
+[Fri Dec 24 10:33:28 2021] [notice] Child 24824: Starting thread to listen on port 8080.
+[Fri Dec 24 10:34:35 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 10:34:35 2021] [notice] Child 24824: Exit event signaled. Child process is ending.
+[Fri Dec 24 10:34:36 2021] [notice] Child 24824: Released the start mutex
+[Fri Dec 24 10:34:37 2021] [notice] Child 24824: All worker threads have exited.
+[Fri Dec 24 10:34:38 2021] [notice] Child 24824: Child process is exiting
+[Fri Dec 24 10:34:39 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:36:34 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 10:36:34 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 10:36:34 2021] [notice] Parent: Created child process 15028
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:36:34 2021] [notice] Child 15028: Child process is running
+[Fri Dec 24 10:36:34 2021] [notice] Child 15028: Acquired the start mutex.
+[Fri Dec 24 10:36:34 2021] [notice] Child 15028: Starting 64 worker threads.
+[Fri Dec 24 10:36:34 2021] [notice] Child 15028: Starting thread to listen on port 8080.
+[Fri Dec 24 10:40:36 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 10:40:36 2021] [notice] Child 15028: Exit event signaled. Child process is ending.
+[Fri Dec 24 10:40:37 2021] [notice] Child 15028: Released the start mutex
+[Fri Dec 24 10:40:38 2021] [notice] Child 15028: All worker threads have exited.
+[Fri Dec 24 10:40:38 2021] [notice] Child 15028: Child process is exiting
+[Fri Dec 24 10:40:39 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:40:56 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 10:40:56 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 10:40:56 2021] [notice] Parent: Created child process 1396
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:40:56 2021] [notice] Child 1396: Child process is running
+[Fri Dec 24 10:40:56 2021] [notice] Child 1396: Acquired the start mutex.
+[Fri Dec 24 10:40:56 2021] [notice] Child 1396: Starting 64 worker threads.
+[Fri Dec 24 10:40:56 2021] [notice] Child 1396: Starting thread to listen on port 8080.
+[Fri Dec 24 10:42:46 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 10:42:46 2021] [notice] Child 1396: Exit event signaled. Child process is ending.
+[Fri Dec 24 10:42:47 2021] [notice] Child 1396: Released the start mutex
+[Fri Dec 24 10:42:48 2021] [notice] Child 1396: All worker threads have exited.
+[Fri Dec 24 10:42:49 2021] [notice] Child 1396: Child process is exiting
+[Fri Dec 24 10:42:50 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:43:22 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 10:43:22 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 10:43:22 2021] [notice] Parent: Created child process 17296
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:43:23 2021] [notice] Child 17296: Child process is running
+[Fri Dec 24 10:43:23 2021] [notice] Child 17296: Acquired the start mutex.
+[Fri Dec 24 10:43:23 2021] [notice] Child 17296: Starting 64 worker threads.
+[Fri Dec 24 10:43:23 2021] [notice] Child 17296: Starting thread to listen on port 8080.
+[Fri Dec 24 10:44:45 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 10:44:45 2021] [notice] Child 17296: Exit event signaled. Child process is ending.
+[Fri Dec 24 10:44:46 2021] [notice] Child 17296: Released the start mutex
+[Fri Dec 24 10:44:47 2021] [notice] Child 17296: All worker threads have exited.
+[Fri Dec 24 10:44:47 2021] [notice] Child 17296: Child process is exiting
+[Fri Dec 24 10:44:48 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:45:27 2021] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Dec 24 10:45:27 2021] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Dec 24 10:45:27 2021] [notice] Parent: Created child process 24756
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.221.229 for ServerName
+[Fri Dec 24 10:45:27 2021] [notice] Child 24756: Child process is running
+[Fri Dec 24 10:45:27 2021] [notice] Child 24756: Acquired the start mutex.
+[Fri Dec 24 10:45:27 2021] [notice] Child 24756: Starting 64 worker threads.
+[Fri Dec 24 10:45:27 2021] [notice] Child 24756: Starting thread to listen on port 8080.
+[Fri Dec 24 11:53:45 2021] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 24 11:53:45 2021] [notice] Child 24756: Exit event signaled. Child process is ending.
+[Fri Dec 24 11:53:46 2021] [notice] Child 24756: Released the start mutex
+[Fri Dec 24 11:53:47 2021] [notice] Child 24756: All worker threads have exited.
+[Fri Dec 24 11:53:47 2021] [notice] Child 24756: Child process is exiting
+[Fri Dec 24 11:53:48 2021] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:21:04 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 14:21:04 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 14:21:04 2022] [notice] Parent: Created child process 1632
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:21:04 2022] [notice] Child 1632: Child process is running
+[Sat Jan 29 14:21:04 2022] [notice] Child 1632: Acquired the start mutex.
+[Sat Jan 29 14:21:04 2022] [notice] Child 1632: Starting 64 worker threads.
+[Sat Jan 29 14:21:04 2022] [notice] Child 1632: Starting thread to listen on port 8080.
+[Sat Jan 29 14:24:02 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 14:24:02 2022] [notice] Child 1632: Exit event signaled. Child process is ending.
+[Sat Jan 29 14:24:03 2022] [notice] Child 1632: Released the start mutex
+[Sat Jan 29 14:24:04 2022] [notice] Child 1632: All worker threads have exited.
+[Sat Jan 29 14:24:04 2022] [notice] Child 1632: Child process is exiting
+[Sat Jan 29 14:24:04 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:43:29 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 14:43:29 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 14:43:29 2022] [notice] Parent: Created child process 30988
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:43:29 2022] [notice] Child 30988: Child process is running
+[Sat Jan 29 14:43:29 2022] [notice] Child 30988: Acquired the start mutex.
+[Sat Jan 29 14:43:29 2022] [notice] Child 30988: Starting 64 worker threads.
+[Sat Jan 29 14:43:29 2022] [notice] Child 30988: Starting thread to listen on port 8080.
+[Sat Jan 29 14:43:31 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 14:43:31 2022] [notice] Child 30988: Exit event signaled. Child process is ending.
+[Sat Jan 29 14:43:32 2022] [notice] Child 30988: Released the start mutex
+[Sat Jan 29 14:43:33 2022] [notice] Child 30988: All worker threads have exited.
+[Sat Jan 29 14:43:33 2022] [notice] Child 30988: Child process is exiting
+[Sat Jan 29 14:43:33 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:43:35 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 14:43:35 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 14:43:35 2022] [notice] Parent: Created child process 30048
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:43:35 2022] [notice] Child 30048: Child process is running
+[Sat Jan 29 14:43:35 2022] [notice] Child 30048: Acquired the start mutex.
+[Sat Jan 29 14:43:35 2022] [notice] Child 30048: Starting 64 worker threads.
+[Sat Jan 29 14:43:35 2022] [notice] Child 30048: Starting thread to listen on port 8080.
+[Sat Jan 29 14:43:36 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 14:43:36 2022] [notice] Child 30048: Exit event signaled. Child process is ending.
+[Sat Jan 29 14:43:37 2022] [notice] Child 30048: Released the start mutex
+[Sat Jan 29 14:43:38 2022] [notice] Child 30048: All worker threads have exited.
+[Sat Jan 29 14:43:38 2022] [notice] Child 30048: Child process is exiting
+[Sat Jan 29 14:43:38 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:43:39 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 14:43:39 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 14:43:39 2022] [notice] Parent: Created child process 16952
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:43:39 2022] [notice] Child 16952: Child process is running
+[Sat Jan 29 14:43:39 2022] [notice] Child 16952: Acquired the start mutex.
+[Sat Jan 29 14:43:39 2022] [notice] Child 16952: Starting 64 worker threads.
+[Sat Jan 29 14:43:39 2022] [notice] Child 16952: Starting thread to listen on port 8080.
+[Sat Jan 29 14:46:05 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 14:46:05 2022] [notice] Child 16952: Exit event signaled. Child process is ending.
+[Sat Jan 29 14:46:06 2022] [notice] Child 16952: Released the start mutex
+[Sat Jan 29 14:46:07 2022] [notice] Child 16952: All worker threads have exited.
+[Sat Jan 29 14:46:07 2022] [notice] Child 16952: Child process is exiting
+[Sat Jan 29 14:46:07 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:46:16 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 14:46:16 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 14:46:16 2022] [notice] Parent: Created child process 3868
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 14:46:16 2022] [notice] Child 3868: Child process is running
+[Sat Jan 29 14:46:16 2022] [notice] Child 3868: Acquired the start mutex.
+[Sat Jan 29 14:46:16 2022] [notice] Child 3868: Starting 64 worker threads.
+[Sat Jan 29 14:46:16 2022] [notice] Child 3868: Starting thread to listen on port 8080.
+[Sat Jan 29 14:47:03 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 14:47:03 2022] [notice] Child 3868: Exit event signaled. Child process is ending.
+[Sat Jan 29 14:47:04 2022] [notice] Child 3868: Released the start mutex
+[Sat Jan 29 14:47:05 2022] [notice] Child 3868: All worker threads have exited.
+[Sat Jan 29 14:47:05 2022] [notice] Child 3868: Child process is exiting
+[Sat Jan 29 14:47:05 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 17:59:14 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 17:59:14 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 17:59:14 2022] [notice] Parent: Created child process 31552
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 17:59:14 2022] [notice] Child 31552: Child process is running
+[Sat Jan 29 17:59:14 2022] [notice] Child 31552: Acquired the start mutex.
+[Sat Jan 29 17:59:14 2022] [notice] Child 31552: Starting 64 worker threads.
+[Sat Jan 29 17:59:14 2022] [notice] Child 31552: Starting thread to listen on port 8080.
+[Sat Jan 29 17:59:26 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 17:59:26 2022] [notice] Child 31552: Exit event signaled. Child process is ending.
+[Sat Jan 29 17:59:27 2022] [notice] Child 31552: Released the start mutex
+[Sat Jan 29 17:59:28 2022] [notice] Child 31552: All worker threads have exited.
+[Sat Jan 29 17:59:28 2022] [notice] Child 31552: Child process is exiting
+[Sat Jan 29 17:59:28 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:04:53 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:04:53 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:04:53 2022] [notice] Parent: Created child process 28508
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:04:53 2022] [notice] Child 28508: Child process is running
+[Sat Jan 29 18:04:53 2022] [notice] Child 28508: Acquired the start mutex.
+[Sat Jan 29 18:04:53 2022] [notice] Child 28508: Starting 64 worker threads.
+[Sat Jan 29 18:04:53 2022] [notice] Child 28508: Starting thread to listen on port 8080.
+[Sat Jan 29 18:05:15 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:05:15 2022] [notice] Child 28508: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:05:16 2022] [notice] Child 28508: Released the start mutex
+[Sat Jan 29 18:05:17 2022] [notice] Child 28508: All worker threads have exited.
+[Sat Jan 29 18:05:17 2022] [notice] Child 28508: Child process is exiting
+[Sat Jan 29 18:05:17 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:05:18 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:05:18 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:05:18 2022] [notice] Parent: Created child process 23864
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:05:18 2022] [notice] Child 23864: Child process is running
+[Sat Jan 29 18:05:18 2022] [notice] Child 23864: Acquired the start mutex.
+[Sat Jan 29 18:05:18 2022] [notice] Child 23864: Starting 64 worker threads.
+[Sat Jan 29 18:05:18 2022] [notice] Child 23864: Starting thread to listen on port 8080.
+[Sat Jan 29 18:05:44 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:05:44 2022] [notice] Child 23864: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:05:45 2022] [notice] Child 23864: Released the start mutex
+[Sat Jan 29 18:05:46 2022] [notice] Child 23864: All worker threads have exited.
+[Sat Jan 29 18:05:46 2022] [notice] Child 23864: Child process is exiting
+[Sat Jan 29 18:05:46 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:06:51 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:06:51 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:06:51 2022] [notice] Parent: Created child process 4964
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:06:51 2022] [notice] Child 4964: Child process is running
+[Sat Jan 29 18:06:51 2022] [notice] Child 4964: Acquired the start mutex.
+[Sat Jan 29 18:06:51 2022] [notice] Child 4964: Starting 64 worker threads.
+[Sat Jan 29 18:06:51 2022] [notice] Child 4964: Starting thread to listen on port 8080.
+[Sat Jan 29 18:06:57 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:06:57 2022] [notice] Child 4964: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:06:58 2022] [notice] Child 4964: Released the start mutex
+[Sat Jan 29 18:06:59 2022] [notice] Child 4964: All worker threads have exited.
+[Sat Jan 29 18:06:59 2022] [notice] Child 4964: Child process is exiting
+[Sat Jan 29 18:06:59 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:07:00 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:07:00 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:07:00 2022] [notice] Parent: Created child process 24748
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:07:00 2022] [notice] Child 24748: Child process is running
+[Sat Jan 29 18:07:00 2022] [notice] Child 24748: Acquired the start mutex.
+[Sat Jan 29 18:07:00 2022] [notice] Child 24748: Starting 64 worker threads.
+[Sat Jan 29 18:07:00 2022] [notice] Child 24748: Starting thread to listen on port 8080.
+[Sat Jan 29 18:09:25 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:09:25 2022] [notice] Child 24748: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:09:26 2022] [notice] Child 24748: Released the start mutex
+[Sat Jan 29 18:09:27 2022] [notice] Child 24748: All worker threads have exited.
+[Sat Jan 29 18:09:27 2022] [notice] Child 24748: Child process is exiting
+[Sat Jan 29 18:09:27 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:09:29 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:09:29 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:09:29 2022] [notice] Parent: Created child process 19088
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:09:29 2022] [notice] Child 19088: Child process is running
+[Sat Jan 29 18:09:29 2022] [notice] Child 19088: Acquired the start mutex.
+[Sat Jan 29 18:09:29 2022] [notice] Child 19088: Starting 64 worker threads.
+[Sat Jan 29 18:09:29 2022] [notice] Child 19088: Starting thread to listen on port 8080.
+[Sat Jan 29 18:10:53 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:10:53 2022] [notice] Child 19088: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:10:54 2022] [notice] Child 19088: Released the start mutex
+[Sat Jan 29 18:10:55 2022] [notice] Child 19088: All worker threads have exited.
+[Sat Jan 29 18:10:55 2022] [notice] Child 19088: Child process is exiting
+[Sat Jan 29 18:10:55 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:12:29 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:12:29 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:12:29 2022] [notice] Parent: Created child process 20728
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:12:29 2022] [notice] Child 20728: Child process is running
+[Sat Jan 29 18:12:29 2022] [notice] Child 20728: Acquired the start mutex.
+[Sat Jan 29 18:12:29 2022] [notice] Child 20728: Starting 64 worker threads.
+[Sat Jan 29 18:12:29 2022] [notice] Child 20728: Starting thread to listen on port 8080.
+[Sat Jan 29 18:13:27 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:13:27 2022] [notice] Child 20728: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:13:29 2022] [notice] Child 20728: Released the start mutex
+[Sat Jan 29 18:13:30 2022] [notice] Child 20728: All worker threads have exited.
+[Sat Jan 29 18:13:30 2022] [notice] Child 20728: Child process is exiting
+[Sat Jan 29 18:13:30 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:13:58 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:13:58 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:13:58 2022] [notice] Parent: Created child process 14120
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:13:58 2022] [notice] Child 14120: Child process is running
+[Sat Jan 29 18:13:58 2022] [notice] Child 14120: Acquired the start mutex.
+[Sat Jan 29 18:13:58 2022] [notice] Child 14120: Starting 64 worker threads.
+[Sat Jan 29 18:13:58 2022] [notice] Child 14120: Starting thread to listen on port 8080.
+[Sat Jan 29 18:17:04 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:17:04 2022] [notice] Child 14120: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:17:05 2022] [notice] Child 14120: Released the start mutex
+[Sat Jan 29 18:17:06 2022] [notice] Child 14120: All worker threads have exited.
+[Sat Jan 29 18:17:06 2022] [notice] Child 14120: Child process is exiting
+[Sat Jan 29 18:17:06 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:17:07 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:17:07 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:17:07 2022] [notice] Parent: Created child process 11072
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:17:07 2022] [notice] Child 11072: Child process is running
+[Sat Jan 29 18:17:07 2022] [notice] Child 11072: Acquired the start mutex.
+[Sat Jan 29 18:17:07 2022] [notice] Child 11072: Starting 64 worker threads.
+[Sat Jan 29 18:17:07 2022] [notice] Child 11072: Starting thread to listen on port 8080.
+[Sat Jan 29 18:17:39 2022] [error] [client 192.168.199.229] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/HNAP1
+[Sat Jan 29 18:21:25 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:21:25 2022] [notice] Child 11072: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:21:26 2022] [notice] Child 11072: Released the start mutex
+[Sat Jan 29 18:21:27 2022] [notice] Child 11072: All worker threads have exited.
+[Sat Jan 29 18:21:27 2022] [notice] Child 11072: Child process is exiting
+[Sat Jan 29 18:21:27 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:22:27 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:22:27 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:22:27 2022] [notice] Parent: Created child process 22996
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:22:27 2022] [notice] Child 22996: Child process is running
+[Sat Jan 29 18:22:27 2022] [notice] Child 22996: Acquired the start mutex.
+[Sat Jan 29 18:22:27 2022] [notice] Child 22996: Starting 64 worker threads.
+[Sat Jan 29 18:22:27 2022] [notice] Child 22996: Starting thread to listen on port 8080.
+[Sat Jan 29 18:39:25 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:39:25 2022] [notice] Child 22996: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:39:26 2022] [notice] Child 22996: Released the start mutex
+[Sat Jan 29 18:39:27 2022] [notice] Child 22996: All worker threads have exited.
+[Sat Jan 29 18:39:27 2022] [notice] Child 22996: Child process is exiting
+[Sat Jan 29 18:39:27 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:39:28 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:39:28 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:39:28 2022] [notice] Parent: Created child process 14320
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:39:28 2022] [notice] Child 14320: Child process is running
+[Sat Jan 29 18:39:28 2022] [notice] Child 14320: Acquired the start mutex.
+[Sat Jan 29 18:39:28 2022] [notice] Child 14320: Starting 64 worker threads.
+[Sat Jan 29 18:39:28 2022] [notice] Child 14320: Starting thread to listen on port 8080.
+[Sat Jan 29 18:46:24 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 18:46:24 2022] [notice] Child 14320: Exit event signaled. Child process is ending.
+[Sat Jan 29 18:46:25 2022] [notice] Child 14320: Released the start mutex
+[Sat Jan 29 18:46:26 2022] [notice] Child 14320: All worker threads have exited.
+[Sat Jan 29 18:46:26 2022] [notice] Child 14320: Child process is exiting
+[Sat Jan 29 18:46:26 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:46:29 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 18:46:29 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 18:46:29 2022] [notice] Parent: Created child process 19608
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.199.229 for ServerName
+[Sat Jan 29 18:46:29 2022] [notice] Child 19608: Child process is running
+[Sat Jan 29 18:46:29 2022] [notice] Child 19608: Acquired the start mutex.
+[Sat Jan 29 18:46:29 2022] [notice] Child 19608: Starting 64 worker threads.
+[Sat Jan 29 18:46:29 2022] [notice] Child 19608: Starting thread to listen on port 8080.
+[Sat Jan 29 19:15:03 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 19:15:03 2022] [notice] Child 19608: Exit event signaled. Child process is ending.
+[Sat Jan 29 19:15:04 2022] [notice] Child 19608: Released the start mutex
+[Sat Jan 29 19:15:05 2022] [notice] Child 19608: All worker threads have exited.
+[Sat Jan 29 19:15:05 2022] [notice] Child 19608: Child process is exiting
+[Sat Jan 29 19:15:05 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 19:17:11 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 19:17:11 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 19:17:11 2022] [notice] Parent: Created child process 25988
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 19:17:11 2022] [notice] Child 25988: Child process is running
+[Sat Jan 29 19:17:11 2022] [notice] Child 25988: Acquired the start mutex.
+[Sat Jan 29 19:17:11 2022] [notice] Child 25988: Starting 64 worker threads.
+[Sat Jan 29 19:17:11 2022] [notice] Child 25988: Starting thread to listen on port 8080.
+[Sat Jan 29 19:48:46 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 19:48:46 2022] [notice] Child 25988: Exit event signaled. Child process is ending.
+[Sat Jan 29 19:48:47 2022] [notice] Child 25988: Released the start mutex
+[Sat Jan 29 19:48:48 2022] [notice] Child 25988: All worker threads have exited.
+[Sat Jan 29 19:48:48 2022] [notice] Child 25988: Child process is exiting
+[Sat Jan 29 19:48:48 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 21:39:54 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 21:39:54 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 21:39:54 2022] [notice] Parent: Created child process 14772
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 21:39:54 2022] [notice] Child 14772: Child process is running
+[Sat Jan 29 21:39:54 2022] [notice] Child 14772: Acquired the start mutex.
+[Sat Jan 29 21:39:54 2022] [notice] Child 14772: Starting 64 worker threads.
+[Sat Jan 29 21:39:54 2022] [notice] Child 14772: Starting thread to listen on port 8080.
+[Sat Jan 29 21:54:25 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 21:54:25 2022] [notice] Child 14772: Exit event signaled. Child process is ending.
+[Sat Jan 29 21:54:26 2022] [notice] Child 14772: Released the start mutex
+[Sat Jan 29 21:54:27 2022] [notice] Child 14772: All worker threads have exited.
+[Sat Jan 29 21:54:27 2022] [notice] Child 14772: Child process is exiting
+[Sat Jan 29 21:54:27 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 23:25:16 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 23:25:16 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 23:25:16 2022] [notice] Parent: Created child process 8992
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 23:25:16 2022] [notice] Child 8992: Child process is running
+[Sat Jan 29 23:25:16 2022] [notice] Child 8992: Acquired the start mutex.
+[Sat Jan 29 23:25:16 2022] [notice] Child 8992: Starting 64 worker threads.
+[Sat Jan 29 23:25:16 2022] [notice] Child 8992: Starting thread to listen on port 8080.
+[Sat Jan 29 23:46:09 2022] [error] [client 127.0.0.1] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/library3MA
+[Sat Jan 29 23:46:09 2022] [error] [client 127.0.0.1] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/favicon.ico, referer: http://localhost:8080/library3MA
+[Sat Jan 29 23:46:27 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 29 23:46:27 2022] [notice] Child 8992: Exit event signaled. Child process is ending.
+[Sat Jan 29 23:46:28 2022] [notice] Child 8992: Released the start mutex
+[Sat Jan 29 23:47:02 2022] [notice] Child 8992: Waiting 270 more seconds for 2 worker threads to finish.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 23:47:09 2022] [warn] pid file C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 29 23:47:09 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Jan 29 23:47:09 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Jan 29 23:47:09 2022] [notice] Parent: Created child process 16780
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sat Jan 29 23:47:09 2022] [notice] Child 16780: Child process is running
+[Sat Jan 29 23:47:09 2022] [notice] Child 16780: Acquired the start mutex.
+[Sat Jan 29 23:47:09 2022] [notice] Child 16780: Starting 64 worker threads.
+[Sat Jan 29 23:47:09 2022] [notice] Child 16780: Starting thread to listen on port 8080.
+[Sat Jan 29 23:47:13 2022] [notice] Child 8992: All worker threads have exited.
+[Sat Jan 29 23:47:13 2022] [notice] Child 8992: Child process is exiting
+[Sun Jan 30 00:07:44 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 00:07:44 2022] [notice] Child 16780: Exit event signaled. Child process is ending.
+[Sun Jan 30 00:07:45 2022] [notice] Child 16780: Released the start mutex
+[Sun Jan 30 00:07:46 2022] [notice] Child 16780: All worker threads have exited.
+[Sun Jan 30 00:07:46 2022] [notice] Child 16780: Child process is exiting
+[Sun Jan 30 00:07:46 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 00:07:50 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 00:07:50 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 00:07:50 2022] [notice] Parent: Created child process 10472
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 00:07:51 2022] [notice] Child 10472: Child process is running
+[Sun Jan 30 00:07:51 2022] [notice] Child 10472: Acquired the start mutex.
+[Sun Jan 30 00:07:51 2022] [notice] Child 10472: Starting 64 worker threads.
+[Sun Jan 30 00:07:51 2022] [notice] Child 10472: Starting thread to listen on port 8080.
+[Sun Jan 30 00:16:17 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 00:16:17 2022] [notice] Child 10472: Exit event signaled. Child process is ending.
+[Sun Jan 30 00:16:18 2022] [notice] Child 10472: Released the start mutex
+[Sun Jan 30 00:16:19 2022] [notice] Child 10472: All worker threads have exited.
+[Sun Jan 30 00:16:19 2022] [notice] Child 10472: Child process is exiting
+[Sun Jan 30 00:16:19 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 00:17:13 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 00:17:13 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 00:17:13 2022] [notice] Parent: Created child process 25500
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 00:17:14 2022] [notice] Child 25500: Child process is running
+[Sun Jan 30 00:17:14 2022] [notice] Child 25500: Acquired the start mutex.
+[Sun Jan 30 00:17:14 2022] [notice] Child 25500: Starting 64 worker threads.
+[Sun Jan 30 00:17:14 2022] [notice] Child 25500: Starting thread to listen on port 8080.
+[Sun Jan 30 01:28:18 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 01:28:18 2022] [notice] Child 25500: Exit event signaled. Child process is ending.
+[Sun Jan 30 01:28:19 2022] [notice] Child 25500: Released the start mutex
+[Sun Jan 30 01:28:20 2022] [notice] Child 25500: All worker threads have exited.
+[Sun Jan 30 01:28:20 2022] [notice] Child 25500: Child process is exiting
+[Sun Jan 30 01:28:20 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 11:34:02 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 11:34:02 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 11:34:02 2022] [notice] Parent: Created child process 27500
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 11:34:02 2022] [notice] Child 27500: Child process is running
+[Sun Jan 30 11:34:02 2022] [notice] Child 27500: Acquired the start mutex.
+[Sun Jan 30 11:34:02 2022] [notice] Child 27500: Starting 64 worker threads.
+[Sun Jan 30 11:34:02 2022] [notice] Child 27500: Starting thread to listen on port 8080.
+[Sun Jan 30 11:38:08 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 11:38:08 2022] [notice] Child 27500: Exit event signaled. Child process is ending.
+[Sun Jan 30 11:38:09 2022] [notice] Child 27500: Released the start mutex
+[Sun Jan 30 11:38:10 2022] [notice] Child 27500: All worker threads have exited.
+[Sun Jan 30 11:38:10 2022] [notice] Child 27500: Child process is exiting
+[Sun Jan 30 11:38:10 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 11:43:58 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 11:43:58 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 11:43:58 2022] [notice] Parent: Created child process 18896
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 11:43:58 2022] [notice] Child 18896: Child process is running
+[Sun Jan 30 11:43:58 2022] [notice] Child 18896: Acquired the start mutex.
+[Sun Jan 30 11:43:58 2022] [notice] Child 18896: Starting 64 worker threads.
+[Sun Jan 30 11:43:58 2022] [notice] Child 18896: Starting thread to listen on port 8080.
+[Sun Jan 30 11:46:27 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 11:46:27 2022] [notice] Child 18896: Exit event signaled. Child process is ending.
+[Sun Jan 30 11:46:28 2022] [notice] Child 18896: Released the start mutex
+[Sun Jan 30 11:46:29 2022] [notice] Child 18896: All worker threads have exited.
+[Sun Jan 30 11:46:29 2022] [notice] Child 18896: Child process is exiting
+[Sun Jan 30 11:46:29 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 12:16:18 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 12:16:18 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 12:16:18 2022] [notice] Parent: Created child process 16312
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 12:16:19 2022] [notice] Child 16312: Child process is running
+[Sun Jan 30 12:16:19 2022] [notice] Child 16312: Acquired the start mutex.
+[Sun Jan 30 12:16:19 2022] [notice] Child 16312: Starting 64 worker threads.
+[Sun Jan 30 12:16:19 2022] [notice] Child 16312: Starting thread to listen on port 8080.
+[Sun Jan 30 12:17:28 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 12:17:28 2022] [notice] Child 16312: Exit event signaled. Child process is ending.
+[Sun Jan 30 12:17:29 2022] [notice] Child 16312: Released the start mutex
+[Sun Jan 30 12:17:30 2022] [notice] Child 16312: All worker threads have exited.
+[Sun Jan 30 12:17:30 2022] [notice] Child 16312: Child process is exiting
+[Sun Jan 30 12:17:30 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 12:17:39 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 12:17:39 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 12:17:39 2022] [notice] Parent: Created child process 18272
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 12:17:39 2022] [notice] Child 18272: Child process is running
+[Sun Jan 30 12:17:39 2022] [notice] Child 18272: Acquired the start mutex.
+[Sun Jan 30 12:17:39 2022] [notice] Child 18272: Starting 64 worker threads.
+[Sun Jan 30 12:17:39 2022] [notice] Child 18272: Starting thread to listen on port 8080.
+[Sun Jan 30 13:28:04 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 13:28:04 2022] [notice] Child 18272: Exit event signaled. Child process is ending.
+[Sun Jan 30 13:28:05 2022] [notice] Child 18272: Released the start mutex
+[Sun Jan 30 13:28:06 2022] [notice] Child 18272: All worker threads have exited.
+[Sun Jan 30 13:28:06 2022] [notice] Child 18272: Child process is exiting
+[Sun Jan 30 13:28:06 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 19:17:59 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 19:17:59 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 19:18:00 2022] [notice] Parent: Created child process 28944
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 19:18:00 2022] [notice] Child 28944: Child process is running
+[Sun Jan 30 19:18:00 2022] [notice] Child 28944: Acquired the start mutex.
+[Sun Jan 30 19:18:00 2022] [notice] Child 28944: Starting 64 worker threads.
+[Sun Jan 30 19:18:00 2022] [notice] Child 28944: Starting thread to listen on port 8080.
+[Sun Jan 30 19:20:59 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 19:20:59 2022] [notice] Child 28944: Exit event signaled. Child process is ending.
+[Sun Jan 30 19:21:00 2022] [notice] Child 28944: Released the start mutex
+[Sun Jan 30 19:21:01 2022] [notice] Child 28944: All worker threads have exited.
+[Sun Jan 30 19:21:01 2022] [notice] Child 28944: Child process is exiting
+[Sun Jan 30 19:21:01 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 19:21:04 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 19:21:04 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 19:21:04 2022] [notice] Parent: Created child process 30252
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 19:21:04 2022] [notice] Child 30252: Child process is running
+[Sun Jan 30 19:21:04 2022] [notice] Child 30252: Acquired the start mutex.
+[Sun Jan 30 19:21:04 2022] [notice] Child 30252: Starting 64 worker threads.
+[Sun Jan 30 19:21:04 2022] [notice] Child 30252: Starting thread to listen on port 8080.
+[Sun Jan 30 19:22:30 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 19:22:30 2022] [notice] Child 30252: Exit event signaled. Child process is ending.
+[Sun Jan 30 19:22:31 2022] [notice] Child 30252: Released the start mutex
+[Sun Jan 30 19:22:32 2022] [notice] Child 30252: All worker threads have exited.
+[Sun Jan 30 19:22:32 2022] [notice] Child 30252: Child process is exiting
+[Sun Jan 30 19:22:32 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 19:22:35 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 19:22:35 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 19:22:35 2022] [notice] Parent: Created child process 31012
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 19:22:35 2022] [notice] Child 31012: Child process is running
+[Sun Jan 30 19:22:35 2022] [notice] Child 31012: Acquired the start mutex.
+[Sun Jan 30 19:22:35 2022] [notice] Child 31012: Starting 64 worker threads.
+[Sun Jan 30 19:22:35 2022] [notice] Child 31012: Starting thread to listen on port 8080.
+[Sun Jan 30 19:25:38 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 19:25:38 2022] [notice] Child 31012: Exit event signaled. Child process is ending.
+[Sun Jan 30 19:25:39 2022] [notice] Child 31012: Released the start mutex
+[Sun Jan 30 19:25:40 2022] [notice] Child 31012: All worker threads have exited.
+[Sun Jan 30 19:25:40 2022] [notice] Child 31012: Child process is exiting
+[Sun Jan 30 19:25:40 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 22:57:46 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Jan 30 22:57:46 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Jan 30 22:57:46 2022] [notice] Parent: Created child process 5068
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Sun Jan 30 22:57:46 2022] [notice] Child 5068: Child process is running
+[Sun Jan 30 22:57:46 2022] [notice] Child 5068: Acquired the start mutex.
+[Sun Jan 30 22:57:46 2022] [notice] Child 5068: Starting 64 worker threads.
+[Sun Jan 30 22:57:46 2022] [notice] Child 5068: Starting thread to listen on port 8080.
+[Sun Jan 30 23:01:12 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 30 23:01:12 2022] [notice] Child 5068: Exit event signaled. Child process is ending.
+[Sun Jan 30 23:01:13 2022] [notice] Child 5068: Released the start mutex
+[Sun Jan 30 23:01:14 2022] [notice] Child 5068: All worker threads have exited.
+[Sun Jan 30 23:01:14 2022] [notice] Child 5068: Child process is exiting
+[Sun Jan 30 23:01:14 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 00:48:17 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Jan 31 00:48:17 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Jan 31 00:48:17 2022] [notice] Parent: Created child process 8332
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 00:48:17 2022] [notice] Child 8332: Child process is running
+[Mon Jan 31 00:48:17 2022] [notice] Child 8332: Acquired the start mutex.
+[Mon Jan 31 00:48:17 2022] [notice] Child 8332: Starting 64 worker threads.
+[Mon Jan 31 00:48:17 2022] [notice] Child 8332: Starting thread to listen on port 8080.
+[Mon Jan 31 00:48:57 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 31 00:48:57 2022] [notice] Child 8332: Exit event signaled. Child process is ending.
+[Mon Jan 31 00:48:58 2022] [notice] Child 8332: Released the start mutex
+[Mon Jan 31 00:48:59 2022] [notice] Child 8332: All worker threads have exited.
+[Mon Jan 31 00:48:59 2022] [notice] Child 8332: Child process is exiting
+[Mon Jan 31 00:48:59 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 01:03:09 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Jan 31 01:03:09 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Jan 31 01:03:09 2022] [notice] Parent: Created child process 8048
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 01:03:09 2022] [notice] Child 8048: Child process is running
+[Mon Jan 31 01:03:09 2022] [notice] Child 8048: Acquired the start mutex.
+[Mon Jan 31 01:03:09 2022] [notice] Child 8048: Starting 64 worker threads.
+[Mon Jan 31 01:03:09 2022] [notice] Child 8048: Starting thread to listen on port 8080.
+[Mon Jan 31 01:30:19 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 31 01:30:19 2022] [notice] Child 8048: Exit event signaled. Child process is ending.
+[Mon Jan 31 01:30:20 2022] [notice] Child 8048: Released the start mutex
+[Mon Jan 31 01:30:21 2022] [notice] Child 8048: All worker threads have exited.
+[Mon Jan 31 01:30:21 2022] [notice] Child 8048: Child process is exiting
+[Mon Jan 31 01:30:21 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 01:33:14 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Jan 31 01:33:14 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Jan 31 01:33:14 2022] [notice] Parent: Created child process 16988
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 01:33:14 2022] [notice] Child 16988: Child process is running
+[Mon Jan 31 01:33:14 2022] [notice] Child 16988: Acquired the start mutex.
+[Mon Jan 31 01:33:14 2022] [notice] Child 16988: Starting 64 worker threads.
+[Mon Jan 31 01:33:14 2022] [notice] Child 16988: Starting thread to listen on port 8080.
+[Mon Jan 31 01:45:43 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 31 01:45:43 2022] [notice] Child 16988: Exit event signaled. Child process is ending.
+[Mon Jan 31 01:45:45 2022] [notice] Child 16988: Released the start mutex
+[Mon Jan 31 01:45:46 2022] [notice] Child 16988: All worker threads have exited.
+[Mon Jan 31 01:45:46 2022] [notice] Child 16988: Child process is exiting
+[Mon Jan 31 01:45:46 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 20:55:59 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Jan 31 20:55:59 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Jan 31 20:55:59 2022] [notice] Parent: Created child process 12036
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 20:55:59 2022] [notice] Child 12036: Child process is running
+[Mon Jan 31 20:55:59 2022] [notice] Child 12036: Acquired the start mutex.
+[Mon Jan 31 20:55:59 2022] [notice] Child 12036: Starting 64 worker threads.
+[Mon Jan 31 20:55:59 2022] [notice] Child 12036: Starting thread to listen on port 8080.
+[Mon Jan 31 21:47:36 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 31 21:47:36 2022] [notice] Child 12036: Exit event signaled. Child process is ending.
+[Mon Jan 31 21:47:37 2022] [notice] Child 12036: Released the start mutex
+[Mon Jan 31 21:47:38 2022] [notice] Child 12036: All worker threads have exited.
+[Mon Jan 31 21:47:38 2022] [notice] Child 12036: Child process is exiting
+[Mon Jan 31 21:47:38 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 21:47:39 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Jan 31 21:47:39 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Jan 31 21:47:39 2022] [notice] Parent: Created child process 27116
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Mon Jan 31 21:47:39 2022] [notice] Child 27116: Child process is running
+[Mon Jan 31 21:47:39 2022] [notice] Child 27116: Acquired the start mutex.
+[Mon Jan 31 21:47:39 2022] [notice] Child 27116: Starting 64 worker threads.
+[Mon Jan 31 21:47:39 2022] [notice] Child 27116: Starting thread to listen on port 8080.
+[Mon Jan 31 22:08:12 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 31 22:08:12 2022] [notice] Child 27116: Exit event signaled. Child process is ending.
+[Mon Jan 31 22:08:13 2022] [notice] Child 27116: Released the start mutex
+[Mon Jan 31 22:08:14 2022] [notice] Child 27116: All worker threads have exited.
+[Mon Jan 31 22:08:14 2022] [notice] Child 27116: Child process is exiting
+[Mon Jan 31 22:08:14 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 01:58:43 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 01 01:58:43 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 01 01:58:43 2022] [notice] Parent: Created child process 21904
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 01:58:43 2022] [notice] Child 21904: Child process is running
+[Tue Feb 01 01:58:43 2022] [notice] Child 21904: Acquired the start mutex.
+[Tue Feb 01 01:58:43 2022] [notice] Child 21904: Starting 64 worker threads.
+[Tue Feb 01 01:58:43 2022] [notice] Child 21904: Starting thread to listen on port 8080.
+[Tue Feb 01 02:06:27 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 01 02:06:27 2022] [notice] Child 21904: Exit event signaled. Child process is ending.
+[Tue Feb 01 02:06:28 2022] [notice] Child 21904: Released the start mutex
+[Tue Feb 01 02:06:29 2022] [notice] Child 21904: All worker threads have exited.
+[Tue Feb 01 02:06:29 2022] [notice] Child 21904: Child process is exiting
+[Tue Feb 01 02:06:29 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:12:11 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 01 02:12:11 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 01 02:12:11 2022] [notice] Parent: Created child process 24472
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:12:11 2022] [notice] Child 24472: Child process is running
+[Tue Feb 01 02:12:11 2022] [notice] Child 24472: Acquired the start mutex.
+[Tue Feb 01 02:12:11 2022] [notice] Child 24472: Starting 64 worker threads.
+[Tue Feb 01 02:12:11 2022] [notice] Child 24472: Starting thread to listen on port 8080.
+[Tue Feb 01 02:12:59 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 01 02:12:59 2022] [notice] Child 24472: Exit event signaled. Child process is ending.
+[Tue Feb 01 02:13:00 2022] [notice] Child 24472: Released the start mutex
+[Tue Feb 01 02:13:01 2022] [notice] Child 24472: All worker threads have exited.
+[Tue Feb 01 02:13:01 2022] [notice] Child 24472: Child process is exiting
+[Tue Feb 01 02:13:01 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:24:03 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 01 02:24:03 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 01 02:24:03 2022] [notice] Parent: Created child process 26348
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:24:03 2022] [notice] Child 26348: Child process is running
+[Tue Feb 01 02:24:03 2022] [notice] Child 26348: Acquired the start mutex.
+[Tue Feb 01 02:24:03 2022] [notice] Child 26348: Starting 64 worker threads.
+[Tue Feb 01 02:24:03 2022] [notice] Child 26348: Starting thread to listen on port 8080.
+[Tue Feb 01 02:24:44 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 01 02:24:44 2022] [notice] Child 26348: Exit event signaled. Child process is ending.
+[Tue Feb 01 02:24:45 2022] [notice] Child 26348: Released the start mutex
+[Tue Feb 01 02:24:46 2022] [notice] Child 26348: All worker threads have exited.
+[Tue Feb 01 02:24:46 2022] [notice] Child 26348: Child process is exiting
+[Tue Feb 01 02:24:46 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:43:37 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 01 02:43:37 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 01 02:43:38 2022] [notice] Parent: Created child process 26680
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:43:38 2022] [notice] Child 26680: Child process is running
+[Tue Feb 01 02:43:38 2022] [notice] Child 26680: Acquired the start mutex.
+[Tue Feb 01 02:43:38 2022] [notice] Child 26680: Starting 64 worker threads.
+[Tue Feb 01 02:43:38 2022] [notice] Child 26680: Starting thread to listen on port 8080.
+[Tue Feb 01 02:44:18 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 01 02:44:18 2022] [notice] Child 26680: Exit event signaled. Child process is ending.
+[Tue Feb 01 02:44:19 2022] [notice] Child 26680: Released the start mutex
+[Tue Feb 01 02:44:20 2022] [notice] Child 26680: All worker threads have exited.
+[Tue Feb 01 02:44:20 2022] [notice] Child 26680: Child process is exiting
+[Tue Feb 01 02:44:20 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:50:11 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 01 02:50:11 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 01 02:50:11 2022] [notice] Parent: Created child process 20280
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:50:11 2022] [notice] Child 20280: Child process is running
+[Tue Feb 01 02:50:11 2022] [notice] Child 20280: Acquired the start mutex.
+[Tue Feb 01 02:50:11 2022] [notice] Child 20280: Starting 64 worker threads.
+[Tue Feb 01 02:50:11 2022] [notice] Child 20280: Starting thread to listen on port 8080.
+[Tue Feb 01 02:50:44 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 01 02:50:44 2022] [notice] Child 20280: Exit event signaled. Child process is ending.
+[Tue Feb 01 02:50:45 2022] [notice] Child 20280: Released the start mutex
+[Tue Feb 01 02:50:46 2022] [notice] Child 20280: All worker threads have exited.
+[Tue Feb 01 02:50:46 2022] [notice] Child 20280: Child process is exiting
+[Tue Feb 01 02:50:46 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:51:17 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 01 02:51:17 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 01 02:51:17 2022] [notice] Parent: Created child process 25672
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 02:51:17 2022] [notice] Child 25672: Child process is running
+[Tue Feb 01 02:51:17 2022] [notice] Child 25672: Acquired the start mutex.
+[Tue Feb 01 02:51:17 2022] [notice] Child 25672: Starting 64 worker threads.
+[Tue Feb 01 02:51:17 2022] [notice] Child 25672: Starting thread to listen on port 8080.
+[Tue Feb 01 02:59:48 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 01 02:59:48 2022] [notice] Child 25672: Exit event signaled. Child process is ending.
+[Tue Feb 01 02:59:49 2022] [notice] Child 25672: Released the start mutex
+[Tue Feb 01 02:59:50 2022] [notice] Child 25672: All worker threads have exited.
+[Tue Feb 01 02:59:50 2022] [notice] Child 25672: Child process is exiting
+[Tue Feb 01 02:59:50 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 04:33:02 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 01 04:33:02 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 01 04:33:02 2022] [notice] Parent: Created child process 5196
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 04:33:02 2022] [notice] Child 5196: Child process is running
+[Tue Feb 01 04:33:02 2022] [notice] Child 5196: Acquired the start mutex.
+[Tue Feb 01 04:33:02 2022] [notice] Child 5196: Starting 64 worker threads.
+[Tue Feb 01 04:33:02 2022] [notice] Child 5196: Starting thread to listen on port 8080.
+[Tue Feb 01 05:18:00 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 01 05:18:00 2022] [notice] Child 5196: Exit event signaled. Child process is ending.
+[Tue Feb 01 05:18:01 2022] [notice] Child 5196: Released the start mutex
+[Tue Feb 01 05:18:02 2022] [notice] Child 5196: All worker threads have exited.
+[Tue Feb 01 05:18:02 2022] [notice] Child 5196: Child process is exiting
+[Tue Feb 01 05:18:02 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 05:18:04 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 01 05:18:04 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 01 05:18:04 2022] [notice] Parent: Created child process 828
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.108 for ServerName
+[Tue Feb 01 05:18:04 2022] [notice] Child 828: Child process is running
+[Tue Feb 01 05:18:04 2022] [notice] Child 828: Acquired the start mutex.
+[Tue Feb 01 05:18:04 2022] [notice] Child 828: Starting 64 worker threads.
+[Tue Feb 01 05:18:04 2022] [notice] Child 828: Starting thread to listen on port 8080.
+[Tue Feb 01 05:20:40 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 01 05:20:40 2022] [notice] Child 828: Exit event signaled. Child process is ending.
+[Tue Feb 01 05:20:41 2022] [notice] Child 828: Released the start mutex
+[Tue Feb 01 05:20:42 2022] [notice] Child 828: All worker threads have exited.
+[Tue Feb 01 05:20:42 2022] [notice] Child 828: Child process is exiting
+[Tue Feb 01 05:20:42 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:05:54 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 07 22:05:54 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 07 22:05:54 2022] [notice] Parent: Created child process 21928
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:05:54 2022] [notice] Child 21928: Child process is running
+[Mon Feb 07 22:05:54 2022] [notice] Child 21928: Acquired the start mutex.
+[Mon Feb 07 22:05:54 2022] [notice] Child 21928: Starting 64 worker threads.
+[Mon Feb 07 22:05:54 2022] [notice] Child 21928: Starting thread to listen on port 8080.
+[Mon Feb 07 22:05:56 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 07 22:05:56 2022] [notice] Child 21928: Exit event signaled. Child process is ending.
+[Mon Feb 07 22:05:57 2022] [notice] Child 21928: Released the start mutex
+[Mon Feb 07 22:05:58 2022] [notice] Child 21928: All worker threads have exited.
+[Mon Feb 07 22:05:58 2022] [notice] Child 21928: Child process is exiting
+[Mon Feb 07 22:05:58 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:07:41 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 07 22:07:41 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 07 22:07:41 2022] [notice] Parent: Created child process 20640
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:07:41 2022] [notice] Child 20640: Child process is running
+[Mon Feb 07 22:07:41 2022] [notice] Child 20640: Acquired the start mutex.
+[Mon Feb 07 22:07:41 2022] [notice] Child 20640: Starting 64 worker threads.
+[Mon Feb 07 22:07:41 2022] [notice] Child 20640: Starting thread to listen on port 8080.
+[Mon Feb 07 22:08:05 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 07 22:08:05 2022] [notice] Child 20640: Exit event signaled. Child process is ending.
+[Mon Feb 07 22:08:06 2022] [notice] Child 20640: Released the start mutex
+[Mon Feb 07 22:08:07 2022] [notice] Child 20640: All worker threads have exited.
+[Mon Feb 07 22:08:07 2022] [notice] Child 20640: Child process is exiting
+[Mon Feb 07 22:08:07 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:08:09 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 07 22:08:09 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 07 22:08:09 2022] [notice] Parent: Created child process 672
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:08:10 2022] [notice] Child 672: Child process is running
+[Mon Feb 07 22:08:10 2022] [notice] Child 672: Acquired the start mutex.
+[Mon Feb 07 22:08:10 2022] [notice] Child 672: Starting 64 worker threads.
+[Mon Feb 07 22:08:10 2022] [notice] Child 672: Starting thread to listen on port 8080.
+[Mon Feb 07 22:15:24 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 07 22:15:24 2022] [notice] Child 672: Exit event signaled. Child process is ending.
+[Mon Feb 07 22:15:25 2022] [notice] Child 672: Released the start mutex
+[Mon Feb 07 22:15:26 2022] [notice] Child 672: All worker threads have exited.
+[Mon Feb 07 22:15:26 2022] [notice] Child 672: Child process is exiting
+[Mon Feb 07 22:15:26 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:20:22 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 07 22:20:22 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 07 22:20:22 2022] [notice] Parent: Created child process 28728
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:20:22 2022] [notice] Child 28728: Child process is running
+[Mon Feb 07 22:20:22 2022] [notice] Child 28728: Acquired the start mutex.
+[Mon Feb 07 22:20:22 2022] [notice] Child 28728: Starting 64 worker threads.
+[Mon Feb 07 22:20:22 2022] [notice] Child 28728: Starting thread to listen on port 8080.
+[Mon Feb 07 22:40:19 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 07 22:40:19 2022] [notice] Child 28728: Exit event signaled. Child process is ending.
+[Mon Feb 07 22:40:20 2022] [notice] Child 28728: Released the start mutex
+[Mon Feb 07 22:40:21 2022] [notice] Child 28728: All worker threads have exited.
+[Mon Feb 07 22:40:21 2022] [notice] Child 28728: Child process is exiting
+[Mon Feb 07 22:40:21 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:42:12 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 07 22:42:12 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 07 22:42:12 2022] [notice] Parent: Created child process 1936
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:42:12 2022] [notice] Child 1936: Child process is running
+[Mon Feb 07 22:42:12 2022] [notice] Child 1936: Acquired the start mutex.
+[Mon Feb 07 22:42:12 2022] [notice] Child 1936: Starting 64 worker threads.
+[Mon Feb 07 22:42:12 2022] [notice] Child 1936: Starting thread to listen on port 8080.
+[Mon Feb 07 22:42:41 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 07 22:42:41 2022] [notice] Child 1936: Exit event signaled. Child process is ending.
+[Mon Feb 07 22:42:42 2022] [notice] Child 1936: Released the start mutex
+[Mon Feb 07 22:42:43 2022] [notice] Child 1936: All worker threads have exited.
+[Mon Feb 07 22:42:43 2022] [notice] Child 1936: Child process is exiting
+[Mon Feb 07 22:42:43 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:44:01 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 07 22:44:01 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 07 22:44:01 2022] [notice] Parent: Created child process 9972
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Feb 07 22:44:02 2022] [notice] Child 9972: Child process is running
+[Mon Feb 07 22:44:02 2022] [notice] Child 9972: Acquired the start mutex.
+[Mon Feb 07 22:44:02 2022] [notice] Child 9972: Starting 64 worker threads.
+[Mon Feb 07 22:44:02 2022] [notice] Child 9972: Starting thread to listen on port 8080.
+[Mon Feb 07 22:46:08 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 07 22:46:08 2022] [notice] Child 9972: Exit event signaled. Child process is ending.
+[Mon Feb 07 22:46:09 2022] [notice] Child 9972: Released the start mutex
+[Mon Feb 07 22:46:10 2022] [notice] Child 9972: All worker threads have exited.
+[Mon Feb 07 22:46:10 2022] [notice] Child 9972: Child process is exiting
+[Mon Feb 07 22:46:10 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Tue Feb 08 01:53:39 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 08 01:53:39 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 08 01:53:39 2022] [notice] Parent: Created child process 17680
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Tue Feb 08 01:53:39 2022] [notice] Child 17680: Child process is running
+[Tue Feb 08 01:53:39 2022] [notice] Child 17680: Acquired the start mutex.
+[Tue Feb 08 01:53:39 2022] [notice] Child 17680: Starting 64 worker threads.
+[Tue Feb 08 01:53:40 2022] [notice] Child 17680: Starting thread to listen on port 8080.
+[Tue Feb 08 02:20:34 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 08 02:20:34 2022] [notice] Child 17680: Exit event signaled. Child process is ending.
+[Tue Feb 08 02:20:35 2022] [notice] Child 17680: Released the start mutex
+[Tue Feb 08 02:20:36 2022] [notice] Child 17680: All worker threads have exited.
+[Tue Feb 08 02:20:36 2022] [notice] Child 17680: Child process is exiting
+[Tue Feb 08 02:20:36 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Tue Feb 08 02:23:54 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 08 02:23:54 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 08 02:23:54 2022] [notice] Parent: Created child process 27144
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Tue Feb 08 02:23:54 2022] [notice] Child 27144: Child process is running
+[Tue Feb 08 02:23:54 2022] [notice] Child 27144: Acquired the start mutex.
+[Tue Feb 08 02:23:54 2022] [notice] Child 27144: Starting 64 worker threads.
+[Tue Feb 08 02:23:54 2022] [notice] Child 27144: Starting thread to listen on port 8080.
+[Tue Feb 08 02:29:31 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 08 02:29:31 2022] [notice] Child 27144: Exit event signaled. Child process is ending.
+[Tue Feb 08 02:29:32 2022] [notice] Child 27144: Released the start mutex
+[Tue Feb 08 02:29:33 2022] [notice] Child 27144: All worker threads have exited.
+[Tue Feb 08 02:29:33 2022] [notice] Child 27144: Child process is exiting
+[Tue Feb 08 02:29:33 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Tue Feb 08 02:29:35 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 08 02:29:35 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 08 02:29:35 2022] [notice] Parent: Created child process 5616
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Tue Feb 08 02:29:36 2022] [notice] Child 5616: Child process is running
+[Tue Feb 08 02:29:36 2022] [notice] Child 5616: Acquired the start mutex.
+[Tue Feb 08 02:29:36 2022] [notice] Child 5616: Starting 64 worker threads.
+[Tue Feb 08 02:29:36 2022] [notice] Child 5616: Starting thread to listen on port 8080.
+[Tue Feb 08 02:52:55 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 08 02:52:55 2022] [notice] Child 5616: Exit event signaled. Child process is ending.
+[Tue Feb 08 02:52:56 2022] [notice] Child 5616: Released the start mutex
+[Tue Feb 08 02:52:57 2022] [notice] Child 5616: All worker threads have exited.
+[Tue Feb 08 02:52:57 2022] [notice] Child 5616: Child process is exiting
+[Tue Feb 08 02:52:57 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Tue Feb 08 02:52:59 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 08 02:52:59 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 08 02:52:59 2022] [notice] Parent: Created child process 4416
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Tue Feb 08 02:52:59 2022] [notice] Child 4416: Child process is running
+[Tue Feb 08 02:52:59 2022] [notice] Child 4416: Acquired the start mutex.
+[Tue Feb 08 02:52:59 2022] [notice] Child 4416: Starting 64 worker threads.
+[Tue Feb 08 02:52:59 2022] [notice] Child 4416: Starting thread to listen on port 8080.
+[Tue Feb 08 03:28:44 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 08 03:28:44 2022] [notice] Child 4416: Exit event signaled. Child process is ending.
+[Tue Feb 08 03:28:46 2022] [notice] Child 4416: Released the start mutex
+[Tue Feb 08 03:28:47 2022] [notice] Child 4416: All worker threads have exited.
+[Tue Feb 08 03:28:47 2022] [notice] Child 4416: Child process is exiting
+[Tue Feb 08 03:28:47 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Wed Feb 09 01:06:42 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Wed Feb 09 01:06:42 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Wed Feb 09 01:06:42 2022] [notice] Parent: Created child process 3864
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Wed Feb 09 01:06:42 2022] [notice] Child 3864: Child process is running
+[Wed Feb 09 01:06:42 2022] [notice] Child 3864: Acquired the start mutex.
+[Wed Feb 09 01:06:42 2022] [notice] Child 3864: Starting 64 worker threads.
+[Wed Feb 09 01:06:42 2022] [notice] Child 3864: Starting thread to listen on port 8080.
+[Wed Feb 09 02:47:51 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 09 02:47:51 2022] [notice] Child 3864: Exit event signaled. Child process is ending.
+[Wed Feb 09 02:47:52 2022] [notice] Child 3864: Released the start mutex
+[Wed Feb 09 02:47:53 2022] [notice] Child 3864: All worker threads have exited.
+[Wed Feb 09 02:47:53 2022] [notice] Child 3864: Child process is exiting
+[Wed Feb 09 02:47:53 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Fri Feb 18 21:04:06 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Feb 18 21:04:06 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Feb 18 21:04:06 2022] [notice] Parent: Created child process 18028
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Fri Feb 18 21:04:06 2022] [notice] Child 18028: Child process is running
+[Fri Feb 18 21:04:06 2022] [notice] Child 18028: Acquired the start mutex.
+[Fri Feb 18 21:04:06 2022] [notice] Child 18028: Starting 64 worker threads.
+[Fri Feb 18 21:04:06 2022] [notice] Child 18028: Starting thread to listen on port 8080.
+[Fri Feb 18 21:31:32 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 18 21:31:32 2022] [notice] Child 18028: Exit event signaled. Child process is ending.
+[Fri Feb 18 21:31:33 2022] [notice] Child 18028: Released the start mutex
+[Fri Feb 18 21:31:34 2022] [notice] Child 18028: All worker threads have exited.
+[Fri Feb 18 21:31:34 2022] [notice] Child 18028: Child process is exiting
+[Fri Feb 18 21:31:34 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Fri Feb 18 22:34:06 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Feb 18 22:34:06 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Feb 18 22:34:06 2022] [notice] Parent: Created child process 13684
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Fri Feb 18 22:34:06 2022] [notice] Child 13684: Child process is running
+[Fri Feb 18 22:34:06 2022] [notice] Child 13684: Acquired the start mutex.
+[Fri Feb 18 22:34:06 2022] [notice] Child 13684: Starting 64 worker threads.
+[Fri Feb 18 22:34:06 2022] [notice] Child 13684: Starting thread to listen on port 8080.
+[Fri Feb 18 22:38:30 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 18 22:38:30 2022] [notice] Child 13684: Exit event signaled. Child process is ending.
+[Fri Feb 18 22:38:31 2022] [notice] Child 13684: Released the start mutex
+[Fri Feb 18 22:38:32 2022] [notice] Child 13684: All worker threads have exited.
+[Fri Feb 18 22:38:32 2022] [notice] Child 13684: Child process is exiting
+[Fri Feb 18 22:38:32 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Fri Feb 18 22:38:38 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Feb 18 22:38:38 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Feb 18 22:38:38 2022] [notice] Parent: Created child process 18112
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Fri Feb 18 22:38:38 2022] [notice] Child 18112: Child process is running
+[Fri Feb 18 22:38:38 2022] [notice] Child 18112: Acquired the start mutex.
+[Fri Feb 18 22:38:38 2022] [notice] Child 18112: Starting 64 worker threads.
+[Fri Feb 18 22:38:38 2022] [notice] Child 18112: Starting thread to listen on port 8080.
+[Fri Feb 18 23:21:04 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 18 23:21:04 2022] [notice] Child 18112: Exit event signaled. Child process is ending.
+[Fri Feb 18 23:21:05 2022] [notice] Child 18112: Released the start mutex
+[Fri Feb 18 23:21:06 2022] [notice] Child 18112: All worker threads have exited.
+[Fri Feb 18 23:21:06 2022] [notice] Child 18112: Child process is exiting
+[Fri Feb 18 23:21:06 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Fri Feb 18 23:23:10 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Fri Feb 18 23:23:10 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Feb 18 23:23:10 2022] [notice] Parent: Created child process 4888
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Fri Feb 18 23:23:10 2022] [notice] Child 4888: Child process is running
+[Fri Feb 18 23:23:10 2022] [notice] Child 4888: Acquired the start mutex.
+[Fri Feb 18 23:23:10 2022] [notice] Child 4888: Starting 64 worker threads.
+[Fri Feb 18 23:23:10 2022] [notice] Child 4888: Starting thread to listen on port 8080.
+[Fri Feb 18 23:57:15 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Feb 18 23:57:15 2022] [notice] Child 4888: Exit event signaled. Child process is ending.
+[Fri Feb 18 23:57:16 2022] [notice] Child 4888: Released the start mutex
+[Fri Feb 18 23:57:17 2022] [notice] Child 4888: All worker threads have exited.
+[Fri Feb 18 23:57:17 2022] [notice] Child 4888: Child process is exiting
+[Fri Feb 18 23:57:17 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 00:31:12 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Feb 19 00:31:12 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Feb 19 00:31:12 2022] [notice] Parent: Created child process 17208
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 00:31:12 2022] [notice] Child 17208: Child process is running
+[Sat Feb 19 00:31:12 2022] [notice] Child 17208: Acquired the start mutex.
+[Sat Feb 19 00:31:12 2022] [notice] Child 17208: Starting 64 worker threads.
+[Sat Feb 19 00:31:12 2022] [notice] Child 17208: Starting thread to listen on port 8080.
+[Sat Feb 19 01:12:16 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 19 01:12:16 2022] [notice] Child 17208: Exit event signaled. Child process is ending.
+[Sat Feb 19 01:12:17 2022] [notice] Child 17208: Released the start mutex
+[Sat Feb 19 01:12:18 2022] [notice] Child 17208: All worker threads have exited.
+[Sat Feb 19 01:12:18 2022] [notice] Child 17208: Child process is exiting
+[Sat Feb 19 01:12:18 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 14:04:13 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Feb 19 14:04:13 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Feb 19 14:04:13 2022] [notice] Parent: Created child process 11736
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 14:04:13 2022] [notice] Child 11736: Child process is running
+[Sat Feb 19 14:04:13 2022] [notice] Child 11736: Acquired the start mutex.
+[Sat Feb 19 14:04:13 2022] [notice] Child 11736: Starting 64 worker threads.
+[Sat Feb 19 14:04:13 2022] [notice] Child 11736: Starting thread to listen on port 8080.
+[Sat Feb 19 14:26:31 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 19 14:26:31 2022] [notice] Child 11736: Exit event signaled. Child process is ending.
+[Sat Feb 19 14:26:32 2022] [notice] Child 11736: Released the start mutex
+[Sat Feb 19 14:26:33 2022] [notice] Child 11736: All worker threads have exited.
+[Sat Feb 19 14:26:33 2022] [notice] Child 11736: Child process is exiting
+[Sat Feb 19 14:26:33 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 16:08:29 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Feb 19 16:08:29 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Feb 19 16:08:29 2022] [notice] Parent: Created child process 8652
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 16:08:29 2022] [notice] Child 8652: Child process is running
+[Sat Feb 19 16:08:29 2022] [notice] Child 8652: Acquired the start mutex.
+[Sat Feb 19 16:08:29 2022] [notice] Child 8652: Starting 64 worker threads.
+[Sat Feb 19 16:08:29 2022] [notice] Child 8652: Starting thread to listen on port 8080.
+[Sat Feb 19 16:18:16 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 19 16:18:16 2022] [notice] Child 8652: Exit event signaled. Child process is ending.
+[Sat Feb 19 16:18:17 2022] [notice] Child 8652: Released the start mutex
+[Sat Feb 19 16:18:18 2022] [notice] Child 8652: All worker threads have exited.
+[Sat Feb 19 16:18:18 2022] [notice] Child 8652: Child process is exiting
+[Sat Feb 19 16:18:18 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Sat Feb 19 16:22:51 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Feb 19 16:22:51 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Feb 19 16:22:51 2022] [notice] Parent: Created child process 11376
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Sat Feb 19 16:22:51 2022] [notice] Child 11376: Child process is running
+[Sat Feb 19 16:22:51 2022] [notice] Child 11376: Acquired the start mutex.
+[Sat Feb 19 16:22:51 2022] [notice] Child 11376: Starting 64 worker threads.
+[Sat Feb 19 16:22:51 2022] [notice] Child 11376: Starting thread to listen on port 8080.
+[Sat Feb 19 16:58:11 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 19 16:58:11 2022] [notice] Child 11376: Exit event signaled. Child process is ending.
+[Sat Feb 19 16:58:12 2022] [notice] Child 11376: Released the start mutex
+[Sat Feb 19 16:58:13 2022] [notice] Child 11376: All worker threads have exited.
+[Sat Feb 19 16:58:13 2022] [notice] Child 11376: Child process is exiting
+[Sat Feb 19 16:58:13 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 16:58:24 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Feb 19 16:58:24 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Feb 19 16:58:24 2022] [notice] Parent: Created child process 4356
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 16:58:24 2022] [notice] Child 4356: Child process is running
+[Sat Feb 19 16:58:24 2022] [notice] Child 4356: Acquired the start mutex.
+[Sat Feb 19 16:58:24 2022] [notice] Child 4356: Starting 64 worker threads.
+[Sat Feb 19 16:58:24 2022] [notice] Child 4356: Starting thread to listen on port 8080.
+[Sat Feb 19 17:34:13 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 19 17:34:13 2022] [notice] Child 4356: Exit event signaled. Child process is ending.
+[Sat Feb 19 17:34:14 2022] [notice] Child 4356: Released the start mutex
+[Sat Feb 19 17:34:15 2022] [notice] Child 4356: All worker threads have exited.
+[Sat Feb 19 17:34:15 2022] [notice] Child 4356: Child process is exiting
+[Sat Feb 19 17:34:15 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 17:34:27 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Feb 19 17:34:27 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Feb 19 17:34:27 2022] [notice] Parent: Created child process 1168
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sat Feb 19 17:34:27 2022] [notice] Child 1168: Child process is running
+[Sat Feb 19 17:34:27 2022] [notice] Child 1168: Acquired the start mutex.
+[Sat Feb 19 17:34:27 2022] [notice] Child 1168: Starting 64 worker threads.
+[Sat Feb 19 17:34:27 2022] [notice] Child 1168: Starting thread to listen on port 8080.
+[Sat Feb 19 17:39:26 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 19 17:39:26 2022] [notice] Child 1168: Exit event signaled. Child process is ending.
+[Sat Feb 19 17:39:27 2022] [notice] Child 1168: Released the start mutex
+[Sat Feb 19 17:39:28 2022] [notice] Child 1168: All worker threads have exited.
+[Sat Feb 19 17:39:28 2022] [notice] Child 1168: Child process is exiting
+[Sat Feb 19 17:39:28 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sun Feb 20 04:18:31 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Feb 20 04:18:31 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Feb 20 04:18:31 2022] [notice] Parent: Created child process 7828
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sun Feb 20 04:18:31 2022] [notice] Child 7828: Child process is running
+[Sun Feb 20 04:18:31 2022] [notice] Child 7828: Acquired the start mutex.
+[Sun Feb 20 04:18:31 2022] [notice] Child 7828: Starting 64 worker threads.
+[Sun Feb 20 04:18:31 2022] [notice] Child 7828: Starting thread to listen on port 8080.
+[Sun Feb 20 05:38:32 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Feb 20 05:38:32 2022] [notice] Child 7828: Exit event signaled. Child process is ending.
+[Sun Feb 20 05:38:33 2022] [notice] Child 7828: Released the start mutex
+[Sun Feb 20 05:38:34 2022] [notice] Child 7828: All worker threads have exited.
+[Sun Feb 20 05:38:34 2022] [notice] Child 7828: Child process is exiting
+[Sun Feb 20 05:38:34 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 02:08:30 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 21 02:08:30 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 21 02:08:30 2022] [notice] Parent: Created child process 12988
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 02:08:30 2022] [notice] Child 12988: Child process is running
+[Mon Feb 21 02:08:30 2022] [notice] Child 12988: Acquired the start mutex.
+[Mon Feb 21 02:08:30 2022] [notice] Child 12988: Starting 64 worker threads.
+[Mon Feb 21 02:08:30 2022] [notice] Child 12988: Starting thread to listen on port 8080.
+[Mon Feb 21 02:38:18 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 21 02:38:18 2022] [notice] Child 12988: Exit event signaled. Child process is ending.
+[Mon Feb 21 02:38:19 2022] [notice] Child 12988: Released the start mutex
+[Mon Feb 21 02:38:20 2022] [notice] Child 12988: All worker threads have exited.
+[Mon Feb 21 02:38:20 2022] [notice] Child 12988: Child process is exiting
+[Mon Feb 21 02:38:20 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 02:38:21 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 21 02:38:21 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 21 02:38:21 2022] [notice] Parent: Created child process 16616
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 02:38:21 2022] [notice] Child 16616: Child process is running
+[Mon Feb 21 02:38:21 2022] [notice] Child 16616: Acquired the start mutex.
+[Mon Feb 21 02:38:21 2022] [notice] Child 16616: Starting 64 worker threads.
+[Mon Feb 21 02:38:21 2022] [notice] Child 16616: Starting thread to listen on port 8080.
+[Mon Feb 21 05:49:57 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 21 05:49:57 2022] [notice] Child 16616: Exit event signaled. Child process is ending.
+[Mon Feb 21 05:49:58 2022] [notice] Child 16616: Released the start mutex
+[Mon Feb 21 05:49:59 2022] [notice] Child 16616: All worker threads have exited.
+[Mon Feb 21 05:49:59 2022] [notice] Child 16616: Child process is exiting
+[Mon Feb 21 05:49:59 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 10:31:48 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 21 10:31:48 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 21 10:31:48 2022] [notice] Parent: Created child process 16340
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 10:31:48 2022] [notice] Child 16340: Child process is running
+[Mon Feb 21 10:31:48 2022] [notice] Child 16340: Acquired the start mutex.
+[Mon Feb 21 10:31:48 2022] [notice] Child 16340: Starting 64 worker threads.
+[Mon Feb 21 10:31:48 2022] [notice] Child 16340: Starting thread to listen on port 8080.
+[Mon Feb 21 10:31:51 2022] [error] [client 192.168.1.102] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Templates/rental_service_employeeMA/e1cib
+[Mon Feb 21 10:32:01 2022] [error] [client 192.168.1.102] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Templates/rental_service_employeeMA/e1cib
+[Mon Feb 21 14:19:44 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 21 14:19:44 2022] [notice] Child 16340: Exit event signaled. Child process is ending.
+[Mon Feb 21 14:19:45 2022] [notice] Child 16340: Released the start mutex
+[Mon Feb 21 14:19:46 2022] [notice] Child 16340: All worker threads have exited.
+[Mon Feb 21 14:19:46 2022] [notice] Child 16340: Child process is exiting
+[Mon Feb 21 14:19:46 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 16:02:05 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 21 16:02:05 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 21 16:02:05 2022] [notice] Parent: Created child process 12628
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 16:02:05 2022] [notice] Child 12628: Child process is running
+[Mon Feb 21 16:02:05 2022] [notice] Child 12628: Acquired the start mutex.
+[Mon Feb 21 16:02:05 2022] [notice] Child 12628: Starting 64 worker threads.
+[Mon Feb 21 16:02:05 2022] [notice] Child 12628: Starting thread to listen on port 8080.
+[Mon Feb 21 16:43:23 2022] [error] [client 192.168.1.104] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/HNAP1
+[Mon Feb 21 16:43:23 2022] [error] [client 192.168.1.104] script not found or unable to stat: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/cgi-bin/mainfunction.cgi
+[Mon Feb 21 18:06:28 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 21 18:06:28 2022] [notice] Child 12628: Exit event signaled. Child process is ending.
+[Mon Feb 21 18:06:29 2022] [notice] Child 12628: Released the start mutex
+[Mon Feb 21 18:06:30 2022] [notice] Child 12628: All worker threads have exited.
+[Mon Feb 21 18:06:30 2022] [notice] Child 12628: Child process is exiting
+[Mon Feb 21 18:06:30 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 18:09:59 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 21 18:09:59 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 21 18:09:59 2022] [notice] Parent: Created child process 24016
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 18:09:59 2022] [notice] Child 24016: Child process is running
+[Mon Feb 21 18:09:59 2022] [notice] Child 24016: Acquired the start mutex.
+[Mon Feb 21 18:09:59 2022] [notice] Child 24016: Starting 64 worker threads.
+[Mon Feb 21 18:09:59 2022] [notice] Child 24016: Starting thread to listen on port 8080.
+[Mon Feb 21 18:31:02 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 21 18:31:02 2022] [notice] Child 24016: Exit event signaled. Child process is ending.
+[Mon Feb 21 18:31:03 2022] [notice] Child 24016: Released the start mutex
+[Mon Feb 21 18:31:04 2022] [notice] Child 24016: All worker threads have exited.
+[Mon Feb 21 18:31:04 2022] [notice] Child 24016: Child process is exiting
+[Mon Feb 21 18:31:04 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 18:33:14 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 21 18:33:14 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 21 18:33:14 2022] [notice] Parent: Created child process 20272
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 18:33:14 2022] [notice] Child 20272: Child process is running
+[Mon Feb 21 18:33:14 2022] [notice] Child 20272: Acquired the start mutex.
+[Mon Feb 21 18:33:14 2022] [notice] Child 20272: Starting 64 worker threads.
+[Mon Feb 21 18:33:14 2022] [notice] Child 20272: Starting thread to listen on port 8080.
+[Mon Feb 21 18:35:02 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 21 18:35:02 2022] [notice] Child 20272: Exit event signaled. Child process is ending.
+[Mon Feb 21 18:35:03 2022] [notice] Child 20272: Released the start mutex
+[Mon Feb 21 18:35:04 2022] [notice] Child 20272: All worker threads have exited.
+[Mon Feb 21 18:35:04 2022] [notice] Child 20272: Child process is exiting
+[Mon Feb 21 18:35:04 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 18:37:14 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 21 18:37:14 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 21 18:37:14 2022] [notice] Parent: Created child process 22588
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Mon Feb 21 18:37:14 2022] [notice] Child 22588: Child process is running
+[Mon Feb 21 18:37:14 2022] [notice] Child 22588: Acquired the start mutex.
+[Mon Feb 21 18:37:14 2022] [notice] Child 22588: Starting 64 worker threads.
+[Mon Feb 21 18:37:14 2022] [notice] Child 22588: Starting thread to listen on port 8080.
+[Mon Feb 21 18:44:53 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 21 18:44:53 2022] [notice] Child 22588: Exit event signaled. Child process is ending.
+[Mon Feb 21 18:44:54 2022] [notice] Child 22588: Released the start mutex
+[Mon Feb 21 18:44:55 2022] [notice] Child 22588: All worker threads have exited.
+[Mon Feb 21 18:44:55 2022] [notice] Child 22588: Child process is exiting
+[Mon Feb 21 18:44:55 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Tue Feb 22 13:58:51 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Feb 22 13:58:51 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Feb 22 13:58:51 2022] [notice] Parent: Created child process 18288
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Tue Feb 22 13:58:51 2022] [notice] Child 18288: Child process is running
+[Tue Feb 22 13:58:51 2022] [notice] Child 18288: Acquired the start mutex.
+[Tue Feb 22 13:58:51 2022] [notice] Child 18288: Starting 64 worker threads.
+[Tue Feb 22 13:58:51 2022] [notice] Child 18288: Starting thread to listen on port 8080.
+[Tue Feb 22 14:00:29 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Feb 22 14:00:29 2022] [notice] Child 18288: Exit event signaled. Child process is ending.
+[Tue Feb 22 14:00:30 2022] [notice] Child 18288: Released the start mutex
+[Tue Feb 22 14:00:31 2022] [notice] Child 18288: All worker threads have exited.
+[Tue Feb 22 14:00:31 2022] [notice] Child 18288: Child process is exiting
+[Tue Feb 22 14:00:31 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Wed Feb 23 16:28:24 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Wed Feb 23 16:28:24 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Wed Feb 23 16:28:24 2022] [notice] Parent: Created child process 10636
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Wed Feb 23 16:28:25 2022] [notice] Child 10636: Child process is running
+[Wed Feb 23 16:28:25 2022] [notice] Child 10636: Acquired the start mutex.
+[Wed Feb 23 16:28:25 2022] [notice] Child 10636: Starting 64 worker threads.
+[Wed Feb 23 16:28:25 2022] [notice] Child 10636: Starting thread to listen on port 8080.
+[Wed Feb 23 16:35:40 2022] [error] [client 192.168.97.229] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/HNAP1
+[Wed Feb 23 16:46:22 2022] [error] [client 192.168.97.229] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/HNAP1
+[Wed Feb 23 16:46:22 2022] [error] [client 192.168.97.229] script not found or unable to stat: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/cgi-bin/mainfunction.cgi
+[Wed Feb 23 16:53:16 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 23 16:53:16 2022] [notice] Child 10636: Exit event signaled. Child process is ending.
+[Wed Feb 23 16:53:17 2022] [notice] Child 10636: Released the start mutex
+[Wed Feb 23 16:53:18 2022] [notice] Child 10636: All worker threads have exited.
+[Wed Feb 23 16:53:18 2022] [notice] Child 10636: Child process is exiting
+[Wed Feb 23 16:53:18 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Wed Feb 23 18:27:52 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Wed Feb 23 18:27:52 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Wed Feb 23 18:27:52 2022] [notice] Parent: Created child process 6904
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Wed Feb 23 18:27:52 2022] [notice] Child 6904: Child process is running
+[Wed Feb 23 18:27:52 2022] [notice] Child 6904: Acquired the start mutex.
+[Wed Feb 23 18:27:52 2022] [notice] Child 6904: Starting 64 worker threads.
+[Wed Feb 23 18:27:52 2022] [notice] Child 6904: Starting thread to listen on port 8080.
+[Thu Feb 24 02:00:57 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 24 02:00:57 2022] [notice] Child 6904: Exit event signaled. Child process is ending.
+[Thu Feb 24 02:00:58 2022] [notice] Child 6904: Released the start mutex
+[Thu Feb 24 02:00:59 2022] [notice] Child 6904: All worker threads have exited.
+[Thu Feb 24 02:00:59 2022] [notice] Child 6904: Child process is exiting
+[Thu Feb 24 02:00:59 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Thu Feb 24 11:05:01 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Thu Feb 24 11:05:01 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Thu Feb 24 11:05:01 2022] [notice] Parent: Created child process 8384
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Thu Feb 24 11:05:01 2022] [notice] Child 8384: Child process is running
+[Thu Feb 24 11:05:01 2022] [notice] Child 8384: Acquired the start mutex.
+[Thu Feb 24 11:05:01 2022] [notice] Child 8384: Starting 64 worker threads.
+[Thu Feb 24 11:05:01 2022] [notice] Child 8384: Starting thread to listen on port 8080.
+[Thu Feb 24 11:05:34 2022] [error] [client 192.168.97.127] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/waterdeliveryMA
+[Thu Feb 24 11:05:42 2022] [error] [client 192.168.97.127] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/waterdeliveryMA
+[Thu Feb 24 11:06:00 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 24 11:06:00 2022] [notice] Child 8384: Exit event signaled. Child process is ending.
+[Thu Feb 24 11:06:01 2022] [notice] Child 8384: Released the start mutex
+[Thu Feb 24 11:06:02 2022] [notice] Child 8384: All worker threads have exited.
+[Thu Feb 24 11:06:02 2022] [notice] Child 8384: Child process is exiting
+[Thu Feb 24 11:06:02 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Thu Feb 24 11:06:04 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Thu Feb 24 11:06:04 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Thu Feb 24 11:06:04 2022] [notice] Parent: Created child process 10296
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.97.229 for ServerName
+[Thu Feb 24 11:06:04 2022] [notice] Child 10296: Child process is running
+[Thu Feb 24 11:06:04 2022] [notice] Child 10296: Acquired the start mutex.
+[Thu Feb 24 11:06:04 2022] [notice] Child 10296: Starting 64 worker threads.
+[Thu Feb 24 11:06:04 2022] [notice] Child 10296: Starting thread to listen on port 8080.
+[Thu Feb 24 12:07:28 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Feb 24 12:07:28 2022] [notice] Child 10296: Exit event signaled. Child process is ending.
+[Thu Feb 24 12:07:29 2022] [notice] Child 10296: Released the start mutex
+[Thu Feb 24 12:07:30 2022] [notice] Child 10296: All worker threads have exited.
+[Thu Feb 24 12:07:30 2022] [notice] Child 10296: Child process is exiting
+[Thu Feb 24 12:07:30 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Sun Feb 27 04:02:23 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Feb 27 04:02:23 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Feb 27 04:02:23 2022] [notice] Parent: Created child process 15352
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Sun Feb 27 04:02:23 2022] [notice] Child 15352: Child process is running
+[Sun Feb 27 04:02:23 2022] [notice] Child 15352: Acquired the start mutex.
+[Sun Feb 27 04:02:23 2022] [notice] Child 15352: Starting 64 worker threads.
+[Sun Feb 27 04:02:23 2022] [notice] Child 15352: Starting thread to listen on port 8080.
+[Sun Feb 27 04:04:44 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Feb 27 04:04:44 2022] [notice] Child 15352: Exit event signaled. Child process is ending.
+[Sun Feb 27 04:04:45 2022] [notice] Child 15352: Released the start mutex
+[Sun Feb 27 04:04:46 2022] [notice] Child 15352: All worker threads have exited.
+[Sun Feb 27 04:04:46 2022] [notice] Child 15352: Child process is exiting
+[Sun Feb 27 04:04:46 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Sun Feb 27 04:04:50 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Feb 27 04:04:50 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Feb 27 04:04:50 2022] [notice] Parent: Created child process 30916
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Sun Feb 27 04:04:50 2022] [notice] Child 30916: Child process is running
+[Sun Feb 27 04:04:50 2022] [notice] Child 30916: Acquired the start mutex.
+[Sun Feb 27 04:04:50 2022] [notice] Child 30916: Starting 64 worker threads.
+[Sun Feb 27 04:04:50 2022] [notice] Child 30916: Starting thread to listen on port 8080.
+[Sun Feb 27 04:18:06 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Feb 27 04:18:06 2022] [notice] Child 30916: Exit event signaled. Child process is ending.
+[Sun Feb 27 04:18:07 2022] [notice] Child 30916: Released the start mutex
+[Sun Feb 27 04:18:08 2022] [notice] Child 30916: All worker threads have exited.
+[Sun Feb 27 04:18:08 2022] [notice] Child 30916: Child process is exiting
+[Sun Feb 27 04:18:08 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Sun Feb 27 15:33:07 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Feb 27 15:33:07 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Feb 27 15:33:07 2022] [notice] Parent: Created child process 23572
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Sun Feb 27 15:33:08 2022] [notice] Child 23572: Child process is running
+[Sun Feb 27 15:33:08 2022] [notice] Child 23572: Acquired the start mutex.
+[Sun Feb 27 15:33:08 2022] [notice] Child 23572: Starting 64 worker threads.
+[Sun Feb 27 15:33:08 2022] [notice] Child 23572: Starting thread to listen on port 8080.
+[Sun Feb 27 19:17:25 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Feb 27 19:17:25 2022] [notice] Child 23572: Exit event signaled. Child process is ending.
+[Sun Feb 27 19:17:26 2022] [notice] Child 23572: Released the start mutex
+[Sun Feb 27 19:17:27 2022] [notice] Child 23572: All worker threads have exited.
+[Sun Feb 27 19:17:27 2022] [notice] Child 23572: Child process is exiting
+[Sun Feb 27 19:17:28 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Mon Feb 28 05:03:20 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 28 05:03:20 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 28 05:03:20 2022] [notice] Parent: Created child process 24496
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Mon Feb 28 05:03:20 2022] [notice] Child 24496: Child process is running
+[Mon Feb 28 05:03:20 2022] [notice] Child 24496: Acquired the start mutex.
+[Mon Feb 28 05:03:20 2022] [notice] Child 24496: Starting 64 worker threads.
+[Mon Feb 28 05:03:20 2022] [notice] Child 24496: Starting thread to listen on port 8080.
+[Mon Feb 28 05:03:52 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 28 05:03:52 2022] [notice] Child 24496: Exit event signaled. Child process is ending.
+[Mon Feb 28 05:03:53 2022] [notice] Child 24496: Released the start mutex
+[Mon Feb 28 05:03:54 2022] [notice] Child 24496: All worker threads have exited.
+[Mon Feb 28 05:03:54 2022] [notice] Child 24496: Child process is exiting
+[Mon Feb 28 05:03:54 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Mon Feb 28 05:03:59 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 28 05:03:59 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 28 05:03:59 2022] [notice] Parent: Created child process 30668
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.106 for ServerName
+[Mon Feb 28 05:03:59 2022] [notice] Child 30668: Child process is running
+[Mon Feb 28 05:03:59 2022] [notice] Child 30668: Acquired the start mutex.
+[Mon Feb 28 05:03:59 2022] [notice] Child 30668: Starting 64 worker threads.
+[Mon Feb 28 05:03:59 2022] [notice] Child 30668: Starting thread to listen on port 8080.
+[Mon Feb 28 05:58:02 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 28 05:58:02 2022] [notice] Child 30668: Exit event signaled. Child process is ending.
+[Mon Feb 28 05:58:03 2022] [notice] Child 30668: Released the start mutex
+[Mon Feb 28 05:58:04 2022] [notice] Child 30668: All worker threads have exited.
+[Mon Feb 28 05:58:04 2022] [notice] Child 30668: Child process is exiting
+[Mon Feb 28 05:58:04 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.219.133 for ServerName
+[Mon Feb 28 14:46:06 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 28 14:46:06 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 28 14:46:06 2022] [notice] Parent: Created child process 29692
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.219.133 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 10.192.219.133 for ServerName
+[Mon Feb 28 14:46:06 2022] [notice] Child 29692: Child process is running
+[Mon Feb 28 14:46:06 2022] [notice] Child 29692: Acquired the start mutex.
+[Mon Feb 28 14:46:06 2022] [notice] Child 29692: Starting 64 worker threads.
+[Mon Feb 28 14:46:07 2022] [notice] Child 29692: Starting thread to listen on port 8080.
+[Mon Feb 28 14:46:13 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 28 14:46:13 2022] [notice] Child 29692: Exit event signaled. Child process is ending.
+[Mon Feb 28 14:46:14 2022] [notice] Child 29692: Released the start mutex
+[Mon Feb 28 14:46:15 2022] [notice] Child 29692: All worker threads have exited.
+[Mon Feb 28 14:46:15 2022] [notice] Child 29692: Child process is exiting
+[Mon Feb 28 14:46:15 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.108.229 for ServerName
+[Mon Feb 28 14:47:42 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Feb 28 14:47:42 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Feb 28 14:47:42 2022] [notice] Parent: Created child process 16520
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.108.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.108.229 for ServerName
+[Mon Feb 28 14:47:42 2022] [notice] Child 16520: Child process is running
+[Mon Feb 28 14:47:42 2022] [notice] Child 16520: Acquired the start mutex.
+[Mon Feb 28 14:47:42 2022] [notice] Child 16520: Starting 64 worker threads.
+[Mon Feb 28 14:47:42 2022] [notice] Child 16520: Starting thread to listen on port 8080.
+[Mon Feb 28 15:03:49 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Feb 28 15:03:49 2022] [notice] Child 16520: Exit event signaled. Child process is ending.
+[Mon Feb 28 15:03:50 2022] [notice] Child 16520: Released the start mutex
+[Mon Feb 28 15:03:51 2022] [notice] Child 16520: All worker threads have exited.
+[Mon Feb 28 15:03:51 2022] [notice] Child 16520: Child process is exiting
+[Mon Feb 28 15:03:51 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Tue Mar 01 11:32:57 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Mar 01 11:32:57 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 01 11:32:57 2022] [notice] Parent: Created child process 12736
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Tue Mar 01 11:32:57 2022] [notice] Child 12736: Child process is running
+[Tue Mar 01 11:32:57 2022] [notice] Child 12736: Acquired the start mutex.
+[Tue Mar 01 11:32:57 2022] [notice] Child 12736: Starting 64 worker threads.
+[Tue Mar 01 11:32:57 2022] [notice] Child 12736: Starting thread to listen on port 8080.
+[Tue Mar 01 11:34:34 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 01 11:34:34 2022] [notice] Child 12736: Exit event signaled. Child process is ending.
+[Tue Mar 01 11:34:35 2022] [notice] Child 12736: Released the start mutex
+[Tue Mar 01 11:34:36 2022] [notice] Child 12736: All worker threads have exited.
+[Tue Mar 01 11:34:36 2022] [notice] Child 12736: Child process is exiting
+[Tue Mar 01 11:34:36 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Tue Mar 01 12:01:33 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Mar 01 12:01:33 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 01 12:01:33 2022] [notice] Parent: Created child process 29536
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Tue Mar 01 12:01:33 2022] [notice] Child 29536: Child process is running
+[Tue Mar 01 12:01:33 2022] [notice] Child 29536: Acquired the start mutex.
+[Tue Mar 01 12:01:33 2022] [notice] Child 29536: Starting 64 worker threads.
+[Tue Mar 01 12:01:33 2022] [notice] Child 29536: Starting thread to listen on port 8080.
+[Tue Mar 01 12:02:24 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 01 12:02:24 2022] [notice] Child 29536: Exit event signaled. Child process is ending.
+[Tue Mar 01 12:02:25 2022] [notice] Child 29536: Released the start mutex
+[Tue Mar 01 12:02:26 2022] [notice] Child 29536: All worker threads have exited.
+[Tue Mar 01 12:02:26 2022] [notice] Child 29536: Child process is exiting
+[Tue Mar 01 12:02:26 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Wed Mar 02 01:45:31 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Wed Mar 02 01:45:31 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Wed Mar 02 01:45:31 2022] [notice] Parent: Created child process 20944
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Wed Mar 02 01:45:32 2022] [notice] Child 20944: Child process is running
+[Wed Mar 02 01:45:32 2022] [notice] Child 20944: Acquired the start mutex.
+[Wed Mar 02 01:45:32 2022] [notice] Child 20944: Starting 64 worker threads.
+[Wed Mar 02 01:45:32 2022] [notice] Child 20944: Starting thread to listen on port 8080.
+[Wed Mar 02 01:47:22 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 02 01:47:22 2022] [notice] Child 20944: Exit event signaled. Child process is ending.
+[Wed Mar 02 01:47:23 2022] [notice] Child 20944: Released the start mutex
+[Wed Mar 02 01:47:24 2022] [notice] Child 20944: All worker threads have exited.
+[Wed Mar 02 01:47:24 2022] [notice] Child 20944: Child process is exiting
+[Wed Mar 02 01:47:24 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Wed Mar 02 03:26:31 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Wed Mar 02 03:26:31 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Wed Mar 02 03:26:31 2022] [notice] Parent: Created child process 25716
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Wed Mar 02 03:26:31 2022] [notice] Child 25716: Child process is running
+[Wed Mar 02 03:26:31 2022] [notice] Child 25716: Acquired the start mutex.
+[Wed Mar 02 03:26:31 2022] [notice] Child 25716: Starting 64 worker threads.
+[Wed Mar 02 03:26:31 2022] [notice] Child 25716: Starting thread to listen on port 8080.
+[Wed Mar 02 03:28:00 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 02 03:28:00 2022] [notice] Child 25716: Exit event signaled. Child process is ending.
+[Wed Mar 02 03:28:01 2022] [notice] Child 25716: Released the start mutex
+[Wed Mar 02 03:28:02 2022] [notice] Child 25716: All worker threads have exited.
+[Wed Mar 02 03:28:02 2022] [notice] Child 25716: Child process is exiting
+[Wed Mar 02 03:28:02 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Thu Mar 03 03:43:01 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Thu Mar 03 03:43:01 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Thu Mar 03 03:43:01 2022] [notice] Parent: Created child process 21488
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Thu Mar 03 03:43:01 2022] [notice] Child 21488: Child process is running
+[Thu Mar 03 03:43:01 2022] [notice] Child 21488: Acquired the start mutex.
+[Thu Mar 03 03:43:01 2022] [notice] Child 21488: Starting 64 worker threads.
+[Thu Mar 03 03:43:01 2022] [notice] Child 21488: Starting thread to listen on port 8080.
+[Thu Mar 03 03:44:04 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 03 03:44:04 2022] [notice] Child 21488: Exit event signaled. Child process is ending.
+[Thu Mar 03 03:44:05 2022] [notice] Child 21488: Released the start mutex
+[Thu Mar 03 03:44:06 2022] [notice] Child 21488: All worker threads have exited.
+[Thu Mar 03 03:44:06 2022] [notice] Child 21488: Child process is exiting
+[Thu Mar 03 03:44:06 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Thu Mar 03 03:46:52 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Thu Mar 03 03:46:52 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Thu Mar 03 03:46:52 2022] [notice] Parent: Created child process 22056
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.105 for ServerName
+[Thu Mar 03 03:46:52 2022] [notice] Child 22056: Child process is running
+[Thu Mar 03 03:46:52 2022] [notice] Child 22056: Acquired the start mutex.
+[Thu Mar 03 03:46:52 2022] [notice] Child 22056: Starting 64 worker threads.
+[Thu Mar 03 03:46:52 2022] [notice] Child 22056: Starting thread to listen on port 8080.
+[Thu Mar 03 04:05:35 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 03 04:05:35 2022] [notice] Child 22056: Exit event signaled. Child process is ending.
+[Thu Mar 03 04:05:36 2022] [notice] Child 22056: Released the start mutex
+[Thu Mar 03 04:05:37 2022] [notice] Child 22056: All worker threads have exited.
+[Thu Mar 03 04:05:37 2022] [notice] Child 22056: Child process is exiting
+[Thu Mar 03 04:05:37 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Mar 07 04:23:34 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Mar 07 04:23:34 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 07 04:23:34 2022] [notice] Parent: Created child process 15164
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Mar 07 04:23:34 2022] [notice] Child 15164: Child process is running
+[Mon Mar 07 04:23:34 2022] [notice] Child 15164: Acquired the start mutex.
+[Mon Mar 07 04:23:34 2022] [notice] Child 15164: Starting 64 worker threads.
+[Mon Mar 07 04:23:34 2022] [notice] Child 15164: Starting thread to listen on port 8080.
+[Mon Mar 07 04:24:39 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 07 04:24:39 2022] [notice] Child 15164: Exit event signaled. Child process is ending.
+[Mon Mar 07 04:24:40 2022] [notice] Child 15164: Released the start mutex
+[Mon Mar 07 04:24:41 2022] [notice] Child 15164: All worker threads have exited.
+[Mon Mar 07 04:24:41 2022] [notice] Child 15164: Child process is exiting
+[Mon Mar 07 04:24:41 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Mar 07 04:24:49 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Mar 07 04:24:49 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 07 04:24:49 2022] [notice] Parent: Created child process 16000
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Mon Mar 07 04:24:49 2022] [notice] Child 16000: Child process is running
+[Mon Mar 07 04:24:49 2022] [notice] Child 16000: Acquired the start mutex.
+[Mon Mar 07 04:24:49 2022] [notice] Child 16000: Starting 64 worker threads.
+[Mon Mar 07 04:24:49 2022] [notice] Child 16000: Starting thread to listen on port 8080.
+[Mon Mar 07 04:45:47 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 07 04:45:47 2022] [notice] Child 16000: Exit event signaled. Child process is ending.
+[Mon Mar 07 04:45:48 2022] [notice] Child 16000: Released the start mutex
+[Mon Mar 07 04:45:49 2022] [notice] Child 16000: All worker threads have exited.
+[Mon Mar 07 04:45:49 2022] [notice] Child 16000: Child process is exiting
+[Mon Mar 07 04:45:49 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.27.229 for ServerName
+[Mon Mar 07 14:33:58 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Mar 07 14:33:58 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 07 14:33:59 2022] [notice] Parent: Created child process 4076
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.27.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.27.229 for ServerName
+[Mon Mar 07 14:33:59 2022] [notice] Child 4076: Child process is running
+[Mon Mar 07 14:33:59 2022] [notice] Child 4076: Acquired the start mutex.
+[Mon Mar 07 14:33:59 2022] [notice] Child 4076: Starting 64 worker threads.
+[Mon Mar 07 14:33:59 2022] [notice] Child 4076: Starting thread to listen on port 8080.
+[Mon Mar 07 14:37:51 2022] [error] [client 192.168.27.229] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/HNAP1
+[Mon Mar 07 14:37:52 2022] [error] [client 192.168.27.229] script not found or unable to stat: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/cgi-bin/mainfunction.cgi
+[Mon Mar 07 14:42:55 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 07 14:42:55 2022] [notice] Child 4076: Exit event signaled. Child process is ending.
+[Mon Mar 07 14:42:56 2022] [notice] Child 4076: Released the start mutex
+[Mon Mar 07 14:42:57 2022] [notice] Child 4076: All worker threads have exited.
+[Mon Mar 07 14:42:57 2022] [notice] Child 4076: Child process is exiting
+[Mon Mar 07 14:42:57 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Sun Mar 20 12:05:20 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Mar 20 12:05:20 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Mar 20 12:05:20 2022] [notice] Parent: Created child process 2452
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Sun Mar 20 12:05:20 2022] [notice] Child 2452: Child process is running
+[Sun Mar 20 12:05:20 2022] [notice] Child 2452: Acquired the start mutex.
+[Sun Mar 20 12:05:20 2022] [notice] Child 2452: Starting 64 worker threads.
+[Sun Mar 20 12:05:20 2022] [notice] Child 2452: Starting thread to listen on port 8080.
+[Sun Mar 20 12:07:02 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 20 12:07:02 2022] [notice] Child 2452: Exit event signaled. Child process is ending.
+[Sun Mar 20 12:07:04 2022] [notice] Child 2452: Released the start mutex
+[Sun Mar 20 12:07:05 2022] [notice] Child 2452: All worker threads have exited.
+[Sun Mar 20 12:07:05 2022] [notice] Child 2452: Child process is exiting
+[Sun Mar 20 12:07:05 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Sun Mar 20 12:13:59 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Mar 20 12:13:59 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Mar 20 12:13:59 2022] [notice] Parent: Created child process 16248
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Sun Mar 20 12:13:59 2022] [notice] Child 16248: Child process is running
+[Sun Mar 20 12:13:59 2022] [notice] Child 16248: Acquired the start mutex.
+[Sun Mar 20 12:13:59 2022] [notice] Child 16248: Starting 64 worker threads.
+[Sun Mar 20 12:13:59 2022] [notice] Child 16248: Starting thread to listen on port 8080.
+[Sun Mar 20 12:29:58 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 20 12:29:58 2022] [notice] Child 16248: Exit event signaled. Child process is ending.
+[Sun Mar 20 12:29:59 2022] [notice] Child 16248: Released the start mutex
+[Sun Mar 20 12:30:00 2022] [notice] Child 16248: All worker threads have exited.
+[Sun Mar 20 12:30:00 2022] [notice] Child 16248: Child process is exiting
+[Sun Mar 20 12:30:00 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.161.229 for ServerName
+[Mon Mar 21 19:12:58 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Mar 21 19:12:58 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 21 19:12:58 2022] [notice] Parent: Created child process 2804
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.161.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.161.229 for ServerName
+[Mon Mar 21 19:12:58 2022] [notice] Child 2804: Child process is running
+[Mon Mar 21 19:12:58 2022] [notice] Child 2804: Acquired the start mutex.
+[Mon Mar 21 19:12:58 2022] [notice] Child 2804: Starting 64 worker threads.
+[Mon Mar 21 19:12:59 2022] [notice] Child 2804: Starting thread to listen on port 8080.
+[Mon Mar 21 19:27:59 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 21 19:27:59 2022] [notice] Child 2804: Exit event signaled. Child process is ending.
+[Mon Mar 21 19:28:00 2022] [notice] Child 2804: Released the start mutex
+[Mon Mar 21 19:28:01 2022] [notice] Child 2804: All worker threads have exited.
+[Mon Mar 21 19:28:01 2022] [notice] Child 2804: Child process is exiting
+[Mon Mar 21 19:28:01 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Tue Mar 22 14:50:23 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Mar 22 14:50:23 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 22 14:50:23 2022] [notice] Parent: Created child process 19292
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Tue Mar 22 14:50:23 2022] [notice] Child 19292: Child process is running
+[Tue Mar 22 14:50:23 2022] [notice] Child 19292: Acquired the start mutex.
+[Tue Mar 22 14:50:23 2022] [notice] Child 19292: Starting 64 worker threads.
+[Tue Mar 22 14:50:23 2022] [notice] Child 19292: Starting thread to listen on port 8080.
+[Tue Mar 22 15:27:42 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 22 15:27:42 2022] [notice] Child 19292: Exit event signaled. Child process is ending.
+[Tue Mar 22 15:27:43 2022] [notice] Child 19292: Released the start mutex
+[Tue Mar 22 15:27:44 2022] [notice] Child 19292: All worker threads have exited.
+[Tue Mar 22 15:27:44 2022] [notice] Child 19292: Child process is exiting
+[Tue Mar 22 15:27:44 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Tue Mar 22 15:33:08 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Mar 22 15:33:08 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 22 15:33:08 2022] [notice] Parent: Created child process 24860
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Tue Mar 22 15:33:08 2022] [notice] Child 24860: Child process is running
+[Tue Mar 22 15:33:09 2022] [notice] Child 24860: Acquired the start mutex.
+[Tue Mar 22 15:33:09 2022] [notice] Child 24860: Starting 64 worker threads.
+[Tue Mar 22 15:33:09 2022] [notice] Child 24860: Starting thread to listen on port 8080.
+[Tue Mar 22 17:38:30 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 22 17:38:30 2022] [notice] Child 24860: Exit event signaled. Child process is ending.
+[Tue Mar 22 17:38:31 2022] [notice] Child 24860: Released the start mutex
+[Tue Mar 22 17:38:32 2022] [notice] Child 24860: All worker threads have exited.
+[Tue Mar 22 17:38:32 2022] [notice] Child 24860: Child process is exiting
+[Tue Mar 22 17:38:32 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Tue Mar 22 18:18:27 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Mar 22 18:18:27 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 22 18:18:27 2022] [notice] Parent: Created child process 20088
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Tue Mar 22 18:18:27 2022] [notice] Child 20088: Child process is running
+[Tue Mar 22 18:18:27 2022] [notice] Child 20088: Acquired the start mutex.
+[Tue Mar 22 18:18:27 2022] [notice] Child 20088: Starting 64 worker threads.
+[Tue Mar 22 18:18:27 2022] [notice] Child 20088: Starting thread to listen on port 8080.
+[Tue Mar 22 19:09:33 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 22 19:09:33 2022] [notice] Child 20088: Exit event signaled. Child process is ending.
+[Tue Mar 22 19:09:34 2022] [notice] Child 20088: Released the start mutex
+[Tue Mar 22 19:09:35 2022] [notice] Child 20088: All worker threads have exited.
+[Tue Mar 22 19:09:35 2022] [notice] Child 20088: Child process is exiting
+[Tue Mar 22 19:09:36 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Tue Mar 22 19:40:45 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Mar 22 19:40:45 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 22 19:40:45 2022] [notice] Parent: Created child process 21888
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Tue Mar 22 19:40:45 2022] [notice] Child 21888: Child process is running
+[Tue Mar 22 19:40:45 2022] [notice] Child 21888: Acquired the start mutex.
+[Tue Mar 22 19:40:45 2022] [notice] Child 21888: Starting 64 worker threads.
+[Tue Mar 22 19:40:45 2022] [notice] Child 21888: Starting thread to listen on port 8080.
+[Tue Mar 22 21:41:01 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 22 21:41:01 2022] [notice] Child 21888: Exit event signaled. Child process is ending.
+[Tue Mar 22 21:41:02 2022] [notice] Child 21888: Released the start mutex
+[Tue Mar 22 21:41:03 2022] [notice] Child 21888: All worker threads have exited.
+[Tue Mar 22 21:41:03 2022] [notice] Child 21888: Child process is exiting
+[Tue Mar 22 21:41:04 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Wed Mar 23 01:52:27 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Wed Mar 23 01:52:27 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Wed Mar 23 01:52:27 2022] [notice] Parent: Created child process 7336
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.103 for ServerName
+[Wed Mar 23 01:52:27 2022] [notice] Child 7336: Child process is running
+[Wed Mar 23 01:52:27 2022] [notice] Child 7336: Acquired the start mutex.
+[Wed Mar 23 01:52:27 2022] [notice] Child 7336: Starting 64 worker threads.
+[Wed Mar 23 01:52:27 2022] [notice] Child 7336: Starting thread to listen on port 8080.
+[Wed Mar 23 01:53:59 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 23 01:53:59 2022] [notice] Child 7336: Exit event signaled. Child process is ending.
+[Wed Mar 23 01:54:00 2022] [notice] Child 7336: Released the start mutex
+[Wed Mar 23 01:54:01 2022] [notice] Child 7336: All worker threads have exited.
+[Wed Mar 23 01:54:01 2022] [notice] Child 7336: Child process is exiting
+[Wed Mar 23 01:54:01 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.161.229 for ServerName
+[Wed Mar 23 16:14:48 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Wed Mar 23 16:14:48 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Wed Mar 23 16:14:48 2022] [notice] Parent: Created child process 13688
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.161.229 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.161.229 for ServerName
+[Wed Mar 23 16:14:48 2022] [notice] Child 13688: Child process is running
+[Wed Mar 23 16:14:48 2022] [notice] Child 13688: Acquired the start mutex.
+[Wed Mar 23 16:14:48 2022] [notice] Child 13688: Starting 64 worker threads.
+[Wed Mar 23 16:14:48 2022] [notice] Child 13688: Starting thread to listen on port 8080.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sun Mar 27 17:28:19 2022] [warn] pid file C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 27 17:28:19 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Mar 27 17:28:19 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Mar 27 17:28:19 2022] [notice] Parent: Created child process 24184
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sun Mar 27 17:28:19 2022] [notice] Child 24184: Child process is running
+[Sun Mar 27 17:28:19 2022] [notice] Child 24184: Acquired the start mutex.
+[Sun Mar 27 17:28:19 2022] [notice] Child 24184: Starting 64 worker threads.
+[Sun Mar 27 17:28:19 2022] [notice] Child 24184: Starting thread to listen on port 8080.
+[Sun Mar 27 17:29:55 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 27 17:29:55 2022] [notice] Child 24184: Exit event signaled. Child process is ending.
+[Sun Mar 27 17:29:56 2022] [notice] Child 24184: Released the start mutex
+[Sun Mar 27 17:29:57 2022] [notice] Child 24184: All worker threads have exited.
+[Sun Mar 27 17:29:57 2022] [notice] Child 24184: Child process is exiting
+[Sun Mar 27 17:29:57 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sun Mar 27 17:29:58 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Mar 27 17:29:58 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Mar 27 17:29:58 2022] [notice] Parent: Created child process 22008
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sun Mar 27 17:29:58 2022] [notice] Child 22008: Child process is running
+[Sun Mar 27 17:29:58 2022] [notice] Child 22008: Acquired the start mutex.
+[Sun Mar 27 17:29:58 2022] [notice] Child 22008: Starting 64 worker threads.
+[Sun Mar 27 17:29:59 2022] [notice] Child 22008: Starting thread to listen on port 8080.
+[Sun Mar 27 18:13:48 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 27 18:13:48 2022] [notice] Child 22008: Exit event signaled. Child process is ending.
+[Sun Mar 27 18:13:49 2022] [notice] Child 22008: Released the start mutex
+[Sun Mar 27 18:13:50 2022] [notice] Child 22008: All worker threads have exited.
+[Sun Mar 27 18:13:50 2022] [notice] Child 22008: Child process is exiting
+[Sun Mar 27 18:13:50 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sun Mar 27 18:18:16 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sun Mar 27 18:18:16 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sun Mar 27 18:18:16 2022] [notice] Parent: Created child process 23076
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.104 for ServerName
+[Sun Mar 27 18:18:16 2022] [notice] Child 23076: Child process is running
+[Sun Mar 27 18:18:16 2022] [notice] Child 23076: Acquired the start mutex.
+[Sun Mar 27 18:18:16 2022] [notice] Child 23076: Starting 64 worker threads.
+[Sun Mar 27 18:18:16 2022] [notice] Child 23076: Starting thread to listen on port 8080.
+[Sun Mar 27 18:50:59 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 27 18:50:59 2022] [notice] Child 23076: Exit event signaled. Child process is ending.
+[Sun Mar 27 18:51:00 2022] [notice] Child 23076: Released the start mutex
+[Sun Mar 27 18:51:01 2022] [notice] Child 23076: All worker threads have exited.
+[Sun Mar 27 18:51:01 2022] [notice] Child 23076: Child process is exiting
+[Sun Mar 27 18:51:01 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.221.71 for ServerName
+[Mon Mar 28 14:43:10 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Mar 28 14:43:10 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 28 14:43:10 2022] [notice] Parent: Created child process 9052
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.192.221.71 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 10.192.221.71 for ServerName
+[Mon Mar 28 14:43:10 2022] [notice] Child 9052: Child process is running
+[Mon Mar 28 14:43:10 2022] [notice] Child 9052: Acquired the start mutex.
+[Mon Mar 28 14:43:10 2022] [notice] Child 9052: Starting 64 worker threads.
+[Mon Mar 28 14:43:10 2022] [notice] Child 9052: Starting thread to listen on port 8080.
+[Mon Mar 28 14:43:30 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 28 14:43:30 2022] [notice] Child 9052: Exit event signaled. Child process is ending.
+[Mon Mar 28 14:43:31 2022] [notice] Child 9052: Released the start mutex
+[Mon Mar 28 14:43:32 2022] [notice] Child 9052: All worker threads have exited.
+[Mon Mar 28 14:43:32 2022] [notice] Child 9052: Child process is exiting
+[Mon Mar 28 14:43:32 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.102 for ServerName
+[Sat Apr 02 13:55:59 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Sat Apr 02 13:55:59 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Sat Apr 02 13:55:59 2022] [notice] Parent: Created child process 9508
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.102 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.1.102 for ServerName
+[Sat Apr 02 13:55:59 2022] [notice] Child 9508: Child process is running
+[Sat Apr 02 13:55:59 2022] [notice] Child 9508: Acquired the start mutex.
+[Sat Apr 02 13:55:59 2022] [notice] Child 9508: Starting 64 worker threads.
+[Sat Apr 02 13:55:59 2022] [notice] Child 9508: Starting thread to listen on port 8080.
+[Sat Apr 02 14:00:07 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Apr 02 14:00:07 2022] [notice] Child 9508: Exit event signaled. Child process is ending.
+[Sat Apr 02 14:00:08 2022] [notice] Child 9508: Released the start mutex
+[Sat Apr 02 14:00:09 2022] [notice] Child 9508: All worker threads have exited.
+[Sat Apr 02 14:00:09 2022] [notice] Child 9508: Child process is exiting
+[Sat Apr 02 14:00:09 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.89.229 for ServerName
+[Mon Apr 04 13:47:54 2022] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Apr 04 13:47:54 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Apr 04 13:47:54 2022] [notice] Parent: Created child process 14412
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.89.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.89.229 for ServerName
+[Mon Apr 04 13:47:54 2022] [notice] Child 14412: Child process is running
+[Mon Apr 04 13:47:54 2022] [notice] Child 14412: Acquired the start mutex.
+[Mon Apr 04 13:47:54 2022] [notice] Child 14412: Starting 64 worker threads.
+[Mon Apr 04 13:47:54 2022] [notice] Child 14412: Starting thread to listen on port 8080.
+[Mon Apr 04 13:50:50 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 04 13:50:50 2022] [notice] Child 14412: Exit event signaled. Child process is ending.
+[Mon Apr 04 13:50:51 2022] [notice] Child 14412: Released the start mutex
+[Mon Apr 04 13:50:52 2022] [notice] Child 14412: All worker threads have exited.
+[Mon Apr 04 13:50:52 2022] [notice] Child 14412: Child process is exiting
+[Mon Apr 04 13:50:52 2022] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.133.229 for ServerName
+[Tue Mar 21 11:57:43 2023] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Mar 21 11:57:43 2023] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 21 11:57:43 2023] [notice] Parent: Created child process 14536
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.133.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.133.229 for ServerName
+[Tue Mar 21 11:57:44 2023] [notice] Child 14536: Child process is running
+[Tue Mar 21 11:57:44 2023] [notice] Child 14536: Acquired the start mutex.
+[Tue Mar 21 11:57:44 2023] [notice] Child 14536: Starting 64 worker threads.
+[Tue Mar 21 11:57:44 2023] [notice] Child 14536: Starting thread to listen on port 8080.
+[Tue Mar 21 11:58:42 2023] [error] [client 192.168.133.222] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/librarian
+[Tue Mar 21 12:00:21 2023] [error] [client 192.168.133.222] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/librarian
+[Tue Mar 21 12:12:57 2023] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 21 12:12:57 2023] [notice] Child 14536: Exit event signaled. Child process is ending.
+[Tue Mar 21 12:12:58 2023] [notice] Child 14536: Released the start mutex
+[Tue Mar 21 12:12:59 2023] [notice] Child 14536: All worker threads have exited.
+[Tue Mar 21 12:12:59 2023] [notice] Child 14536: Child process is exiting
+[Tue Mar 21 12:12:59 2023] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.133.229 for ServerName
+[Tue Mar 21 12:42:10 2023] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Tue Mar 21 12:42:10 2023] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 21 12:42:10 2023] [notice] Parent: Created child process 12788
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.133.229 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.133.229 for ServerName
+[Tue Mar 21 12:42:10 2023] [notice] Child 12788: Child process is running
+[Tue Mar 21 12:42:10 2023] [notice] Child 12788: Acquired the start mutex.
+[Tue Mar 21 12:42:10 2023] [notice] Child 12788: Starting 64 worker threads.
+[Tue Mar 21 12:42:10 2023] [notice] Child 12788: Starting thread to listen on port 8080.
+[Tue Mar 21 12:48:24 2023] [error] [client 192.168.133.120] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Templates/librarianMA/e1cib
+[Tue Mar 21 12:50:54 2023] [error] [client 192.168.133.120] File does not exist: C:/Users/Alan/Desktop/uni/5th/mobile/1c_mobile/Apache2.2/htdocs/e1cib
+[Tue Mar 21 13:21:28 2023] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 21 13:21:28 2023] [notice] Child 12788: Exit event signaled. Child process is ending.
+[Tue Mar 21 13:21:29 2023] [notice] Child 12788: Released the start mutex
+[Tue Mar 21 13:21:30 2023] [notice] Child 12788: All worker threads have exited.
+[Tue Mar 21 13:21:30 2023] [notice] Child 12788: Child process is exiting
+[Tue Mar 21 13:21:30 2023] [notice] Parent: Child process exited successfully.
