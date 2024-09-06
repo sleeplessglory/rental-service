@@ -5,18 +5,24 @@ This is the navigation map for mobile devices and where the buttons lead users t
 ![Карта переходов](https://github.com/user-attachments/assets/8239ae44-adad-4258-82d0-f0ffa384a455)
 # Testing photo and audio
 Using mobile devices rental service employees can take a picture or record anything to take the notes if needed
+
 ![image](https://github.com/user-attachments/assets/49f96868-8b02-4097-a803-fa9ee4dd1beb)
 # Testing filling in details
 Employees of the rental service need to fill in all the details of their customers
+
 ![image](https://github.com/user-attachments/assets/727f2427-3d79-4dc1-9461-a494b67b6362)
 # Testing calls
 If a telephone number's absent, the warning is shown
+
 ![image](https://github.com/user-attachments/assets/559074df-2bd1-4661-97fe-728b3cae777d)
 If it's available, the 1C application redirects and fills in the number itself
+
 ![image](https://github.com/user-attachments/assets/89a007f5-2baf-47cf-9a9e-0227643c43bd)
 # Testing push notifications
 If employees set a reminder, push notifications will work
+
 ![image](https://github.com/user-attachments/assets/15ae0987-f411-44fa-8390-92247ec4432a)
 # Testing emailing
 The 1C mobile application redirects to the default email application and fills in the address and the initial default greeting
+
 ![image](https://github.com/user-attachments/assets/3a00315a-6217-4fbb-b33e-f53692c45455)
