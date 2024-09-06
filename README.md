@@ -14,16 +14,16 @@ Employees of the rental service need to fill in all the details of their custome
 # Testing calls
 If a telephone number's absent, the warning is shown
 
-![image](https://github.com/user-attachments/assets/559074df-2bd1-4661-97fe-728b3cae777d)
+![p er](https://github.com/user-attachments/assets/b47f5eee-d181-40bb-857a-d653cb1684d0)
 
 If it's available, the 1C application redirects and fills in the number itself
 
-![image](https://github.com/user-attachments/assets/89a007f5-2baf-47cf-9a9e-0227643c43bd)
+![p w](https://github.com/user-attachments/assets/6e8491a3-5494-427d-ba84-c1e79a6f8fe4)
 # Testing push notifications
 If employees set a reminder, push notifications will work
 
-![image](https://github.com/user-attachments/assets/15ae0987-f411-44fa-8390-92247ec4432a)
+![push](https://github.com/user-attachments/assets/d8375818-706e-4832-852b-848aa7be96c6)
 # Testing emailing
 The 1C mobile application redirects to the default email application and fills in the address and the initial default greeting
 
-![image](https://github.com/user-attachments/assets/3a00315a-6217-4fbb-b33e-f53692c45455)
+![email](https://github.com/user-attachments/assets/746f5506-b555-4d2e-b345-28825b29580d)
