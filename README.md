@@ -6,7 +6,7 @@ This is the navigation map for mobile devices and where the buttons lead users t
 # Testing photo and audio
 Using mobile devices rental service employees can take a picture or record anything to take the notes if needed
 
-![image](https://github.com/user-attachments/assets/49f96868-8b02-4097-a803-fa9ee4dd1beb)
+![p a](https://github.com/user-attachments/assets/b1d7aebf-8960-44d8-8dd0-2812accfbc94)
 # Testing filling in details
 Employees of the rental service need to fill in all the details of their customers
 
