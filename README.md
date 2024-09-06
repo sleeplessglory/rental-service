@@ -59,3 +59,16 @@ If the ride time is set to 0, the warning is shown
 The total income for employees is calculated after saving all the customers
 
 ![income](https://github.com/user-attachments/assets/2fb099ff-03f3-4847-aed7-3d404973e5d0)
+# BPMN diagrams
+This section shows all the main business process cases.
+The 1st picture describes the process of purchasing any vehicle
+
+![bp purchase](https://github.com/user-attachments/assets/01a58ef9-64bd-41ed-b2ac-767b7daa2c0b)
+
+The next one describes the process of repairing them
+
+![bp repair](https://github.com/user-attachments/assets/2295d8b3-1227-46d2-bdf9-72f4e7d80520)
+
+And the last one describes the process of serving customers
+
+![bp serve](https://github.com/user-attachments/assets/3b07ae0d-9a64-439b-a73f-ee87e4be4cf7)
