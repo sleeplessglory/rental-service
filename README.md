@@ -3,6 +3,10 @@ This is a mobile and desktop application for rental service or its employees to 
 # Navigation map (mobile)
 This is the navigation map for mobile devices and where the buttons lead users to
 ![Карта переходов](https://github.com/user-attachments/assets/8239ae44-adad-4258-82d0-f0ffa384a455)
+# Mobile device interface
+This is an example of the interface on mobile devices
+
+![ex](https://github.com/user-attachments/assets/0d79a055-3667-4643-8dcf-50e918a56669)
 # Testing photo and audio
 Using mobile devices rental service employees can take a picture or record anything to take the notes if needed
 
