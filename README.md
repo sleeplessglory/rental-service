@@ -31,3 +31,31 @@ If employees set a reminder, push notifications will work
 The 1C mobile application redirects to the default email application and fills in the address and the initial default greeting
 
 ![email](https://github.com/user-attachments/assets/746f5506-b555-4d2e-b345-28825b29580d)
+# Testing customer address and the route to it
+If the address is correct, the 1C application redirects to the default map application on the device, defines the customer address and shows the route to it
+
+![geo](https://github.com/user-attachments/assets/9768c323-80c3-450f-b4d5-b3e085266fcc)
+# Testing vehicle types
+If the bicycle type of vehicle is chosen, then blue colour will be applied to the correspondent items
+
+![bicycle](https://github.com/user-attachments/assets/3f2c1aec-486d-46a0-9978-37a277af019f)
+
+If the scooter type of vehice is chosen, then pink colour is applied
+
+![2nd](https://github.com/user-attachments/assets/10d57a07-fc30-408a-a115-b43392698d7e)
+# Testing vehicle status
+Based on the status, all the items are coloured. 
+"In repair" status colours it grey. 
+"Reserved" status colours it yellow. 
+"Taken" status colours it red. 
+"Free" status colours it green 
+
+![status](https://github.com/user-attachments/assets/a49befeb-d024-47a9-bf3e-720504dbbb59)
+# Testing the total ride price
+If the ride time is set to 0, the warning is shown
+
+![total](https://github.com/user-attachments/assets/c42f33b9-073e-47e5-ad4b-56a231fdd743)
+# Testing the total income
+The total income for employees is calculated after saving all the customers
+
+![income](https://github.com/user-attachments/assets/2fb099ff-03f3-4847-aed7-3d404973e5d0)
