@@ -10,11 +10,12 @@ Using mobile devices rental service employees can take a picture or record anyth
 # Testing filling in details
 Employees of the rental service need to fill in all the details of their customers
 
-![image](https://github.com/user-attachments/assets/727f2427-3d79-4dc1-9461-a494b67b6362)
+![12](https://github.com/user-attachments/assets/ee841e81-f12b-4243-8ca5-ce36406c71be)
 # Testing calls
 If a telephone number's absent, the warning is shown
 
 ![image](https://github.com/user-attachments/assets/559074df-2bd1-4661-97fe-728b3cae777d)
+
 If it's available, the 1C application redirects and fills in the number itself
 
 ![image](https://github.com/user-attachments/assets/89a007f5-2baf-47cf-9a9e-0227643c43bd)
