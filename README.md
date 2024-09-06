@@ -6,7 +6,7 @@ This is the navigation map for mobile devices and where the buttons lead users t
 # Mobile device interface
 This is an example of the interface on mobile devices
 
-![exjpg](https://github.com/user-attachments/assets/96f9bba8-e732-48da-9ca7-43ec7dd8cd34)
+![image](https://github.com/user-attachments/assets/8d8af879-0db1-45a8-83b1-e310baf55db3)
 # Testing photo and audio
 Using mobile devices rental service employees can take a picture or record anything to take the notes if needed
 
